@@ -1,0 +1,108 @@
+@import "tailwindcss";
+
+@theme {
+  --color-cream: #f6f1e4;
+  --color-cream-light: #fbf8f0;
+  --color-cream-dark: #ebe3d0;
+  --color-ivory: #fffdf5;
+  --color-forest: #1b4332;
+  --color-forest-dark: #16211c;
+  --color-forest-deep: #0f1713;
+  --color-forest-mid: #2a5a47;
+  --color-forest-light: #d9e5dc;
+  --color-forest-tint: #eaf1ed;
+  --color-amber: #f5a623;
+  --color-amber-hover: #e0951a;
+  --color-terracotta: #b55b34;
+  --color-sky: #3aafd9;
+  --color-sky-light: #d6eff7;
+  --color-sage: #55615b;
+  --color-sage-light: #85958c;
+
+  --font-serif: var(--font-fraunces), Georgia, serif;
+  --font-sans: var(--font-ibm-plex), system-ui, -apple-system, sans-serif;
+}
+
+:root {
+  --background: #f6f1e4;
+  --foreground: #16211c;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-ibm-plex), system-ui, -apple-system, sans-serif;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Custom styled range slider matching Figma Agrivoltaic Simulator */
+input[type="range"] {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 100%;
+  height: 6px;
+  background: #d9e5dc;
+  border-radius: 9999px;
+  outline: none;
+  transition: background 0.2s;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: #1b4332;
+  cursor: pointer;
+  border: 2px solid #ffffff;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25);
+  transition: transform 0.15s ease, background-color 0.15s ease;
+}
+
+input[type="range"]::-webkit-slider-thumb:hover {
+  transform: scale(1.15);
+  background: #f5a623;
+}
+
+input[type="range"]::-moz-range-thumb {
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: #1b4332;
+  cursor: pointer;
+  border: 2px solid #ffffff;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25);
+  transition: transform 0.15s ease, background-color 0.15s ease;
+}
+
+input[type="range"]::-moz-range-thumb:hover {
+  transform: scale(1.15);
+  background: #f5a623;
+}
+
+/* Selection highlight */
+::selection {
+  background-color: #f5a623;
+  color: #16211c;
+}
+
+/* Subtle micro-animations */
+@keyframes pulseSubtle {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.85; transform: scale(1.02); }
+}
+
+.animate-pulse-subtle {
+  animation: pulseSubtle 3s ease-in-out infinite;
+}
+
+@keyframes floatSoft {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-4px); }
+}
+
+.animate-float-soft {
+  animation: floatSoft 4s ease-in-out infinite;
+}

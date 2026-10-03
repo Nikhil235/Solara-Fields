@@ -1,0 +1,3609 @@
+{
+  "name": "Live Agrivoltaic Modeling Tool",
+  "type": "FRAME",
+  "fill": {
+    "r": 246,
+    "g": 241,
+    "b": 228,
+    "a": 1
+  },
+  "size": {
+    "x": 1166,
+    "y": 3598
+  },
+  "children": [
+    {
+      "name": "SiteLayout",
+      "type": "FRAME",
+      "size": {
+        "x": 1166.4000244140625,
+        "y": 3600.660888671875
+      },
+      "children": [
+        {
+          "name": "Header",
+          "type": "FRAME",
+          "fill": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 0.000009999999747378752
+          },
+          "stroke": {
+            "r": 22,
+            "g": 33,
+            "b": 28
+          },
+          "size": {
+            "x": 1166.4000244140625,
+            "y": 80
+          },
+          "children": [
+            {
+              "name": "Container",
+              "type": "FRAME",
+              "size": {
+                "x": 1166.4000244140625,
+                "y": 79.20000457763672
+              },
+              "children": [
+                {
+                  "name": "Link",
+                  "type": "FRAME",
+                  "size": {
+                    "x": 183.1999969482422,
+                    "y": 38.400001525878906
+                  },
+                  "children": [
+                    {
+                      "name": "BrandMark",
+                      "type": "FRAME",
+                      "size": {
+                        "x": 38.400001525878906,
+                        "y": 38.400001525878906
+                      },
+                      "children": [
+                        {
+                          "name": "Vector",
+                          "type": "VECTOR",
+                          "fill": {
+                            "r": 245,
+                            "g": 166,
+                            "b": 35,
+                            "a": 1
+                          },
+                          "stroke": {
+                            "r": 22,
+                            "g": 33,
+                            "b": 28
+                          },
+                          "size": {
+                            "x": 11.199999809265137,
+                            "y": 11.199999809265137
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "Vector",
+                          "type": "VECTOR",
+                          "stroke": {
+                            "r": 22,
+                            "g": 33,
+                            "b": 28
+                          },
+                          "size": {
+                            "x": 32,
+                            "y": 4.800000190734863
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "Vector",
+                          "type": "VECTOR",
+                          "stroke": {
+                            "r": 22,
+                            "g": 33,
+                            "b": 28
+                          },
+                          "size": {
+                            "x": 24.80000114440918,
+                            "y": 10.40000057220459
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "Vector",
+                          "type": "VECTOR",
+                          "stroke": {
+                            "r": 22,
+                            "g": 33,
+                            "b": 28
+                          },
+                          "size": {
+                            "x": 21.600000381469727,
+                            "y": 8
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "Vector",
+                          "type": "VECTOR",
+                          "stroke": {
+                            "r": 22,
+                            "g": 33,
+                            "b": 28
+                          },
+                          "size": {
+                            "x": 7.200000286102295,
+                            "y": 7.200000286102295
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "BrandMark",
+                      "type": "FRAME",
+                      "size": {
+                        "x": 132,
+                        "y": 35
+                      },
+                      "children": [
+                        {
+                          "name": "Solara Fields",
+                          "type": "TEXT",
+                          "text": "Solara Fields",
+                          "font": "Fraunces Bold",
+                          "fontSize": 22.079999923706055,
+                          "fill": {
+                            "r": 22,
+                            "g": 33,
+                            "b": 28,
+                            "a": 1
+                          },
+                          "size": {
+                            "x": 132,
+                            "y": 35
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Navigation - Primary navigation",
+                  "type": "FRAME",
+                  "size": {
+                    "x": 213.14999389648438,
+                    "y": 21
+                  },
+                  "children": [
+                    {
+                      "name": "Link",
+                      "type": "FRAME",
+                      "size": {
+                        "x": 48,
+                        "y": 21
+                      },
+                      "children": [
+                        {
+                          "name": "Product",
+                          "type": "TEXT",
+                          "text": "Product",
+                          "font": "IBM Plex Sans Medium",
+                          "fontSize": 13.119999885559082,
+                          "fill": {
+                            "r": 22,
+                            "g": 33,
+                            "b": 28,
+                            "a": 1
+                          },
+                          "size": {
+                            "x": 48,
+                            "y": 21
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Link",
+                      "type": "FRAME",
+                      "size": {
+                        "x": 66,
+                        "y": 21
+                      },
+                      "children": [
+                        {
+                          "name": "Case study",
+                          "type": "TEXT",
+                          "text": "Case study",
+                          "font": "IBM Plex Sans Medium",
+                          "fontSize": 13.119999885559082,
+                          "fill": {
+                            "r": 22,
+                            "g": 33,
+                            "b": 28,
+                            "a": 1
+                          },
+                          "size": {
+                            "x": 66,
+                            "y": 21
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "Text",
+                          "type": "FRAME",
+                          "fill": {
+                            "r": 245,
+                            "g": 166,
+                            "b": 35,
+                            "a": 1
+                          },
+                          "size": {
+                            "x": 66,
+                            "y": 3
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Link",
+                      "type": "FRAME",
+                      "size": {
+                        "x": 37,
+                        "y": 21
+                      },
+                      "children": [
+                        {
+                          "name": "About",
+                          "type": "TEXT",
+                          "text": "About",
+                          "font": "IBM Plex Sans Medium",
+                          "fontSize": 13.119999885559082,
+                          "fill": {
+                            "r": 22,
+                            "g": 33,
+                            "b": 28,
+                            "a": 1
+                          },
+                          "size": {
+                            "x": 37,
+                            "y": 21
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Link",
+                  "type": "FRAME",
+                  "size": {
+                    "x": 159.1999969482422,
+                    "y": 32
+                  },
+                  "children": [
+                    {
+                      "name": "Book a walkthrough",
+                      "type": "TEXT",
+                      "text": "Book a walkthrough",
+                      "font": "IBM Plex Sans SemiBold",
+                      "fontSize": 12.479999542236328,
+                      "fill": {
+                        "r": 22,
+                        "g": 33,
+                        "b": 28,
+                        "a": 1
+                      },
+                      "size": {
+                        "x": 116,
+                        "y": 20
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "Text",
+                      "type": "FRAME",
+                      "fill": {
+                        "r": 245,
+                        "g": 166,
+                        "b": 35,
+                        "a": 1
+                      },
+                      "stroke": {
+                        "r": 22,
+                        "g": 33,
+                        "b": 28
+                      },
+                      "size": {
+                        "x": 32,
+                        "y": 32
+                      },
+                      "children": [
+                        {
+                          "name": "↗",
+                          "type": "TEXT",
+                          "text": "↗",
+                          "font": "IBM Plex Sans SemiBold",
+                          "fontSize": 12.479999542236328,
+                          "fill": {
+                            "r": 22,
+                            "g": 33,
+                            "b": 28,
+                            "a": 1
+                          },
+                          "size": {
+                            "x": 11,
+                            "y": 20
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Main Content",
+          "type": "FRAME",
+          "size": {
+            "x": 1166.4000244140625,
+            "y": 3209.4111328125
+          },
+          "children": [
+            {
+              "name": "Section",
+              "type": "FRAME",
+              "fill": {
+                "r": 27,
+                "g": 67,
+                "b": 50,
+                "a": 1
+              },
+              "stroke": {
+                "r": 22,
+                "g": 33,
+                "b": 28
+              },
+              "size": {
+                "x": 1166.4000244140625,
+                "y": 665.22998046875
+              },
+              "children": [
+                {
+                  "name": "CaseStudyPage",
+                  "type": "FRAME",
+                  "size": {
+                    "x": 1166.4000244140625,
+                    "y": 430.3500061035156
+                  },
+                  "children": [
+                    {
+                      "name": "Container",
+                      "type": "FRAME",
+                      "size": {
+                        "x": 1073.0999755859375,
+                        "y": 41
+                      },
+                      "children": [
+                        {
+                          "name": "StatusPill",
+                          "type": "FRAME",
+                          "fill": {
+                            "r": 245,
+                            "g": 166,
+                            "b": 35,
+                            "a": 1
+                          },
+                          "stroke": {
+                            "r": 22,
+                            "g": 33,
+                            "b": 28
+                          },
+                          "size": {
+                            "x": 143.39999389648438,
+                            "y": 27.559999465942383
+                          },
+                          "children": [
+                            {
+                              "name": "Modeled scenario",
+                              "type": "TEXT",
+                              "text": "Modeled scenario",
+                              "font": "IBM Plex Sans SemiBold",
+                              "fontSize": 10.880000114440918,
+                              "fill": {
+                                "r": 22,
+                                "g": 33,
+                                "b": 28,
+                                "a": 1
+                              },
+                              "size": {
+                                "x": 121,
+                                "y": 17
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Eyebrow:margin",
+                          "type": "FRAME",
+                          "size": {
+                            "x": 395.3999938964844,
+                            "y": 41.400001525878906
+                          },
+                          "children": [
+                            {
+                              "name": "Eyebrow",
+                              "type": "FRAME",
+                              "size": {
+                                "x": 395.3999938964844,
+                                "y": 19
+                              },
+                              "children": [
+                                {
+                                  "name": "Text",
+                                  "type": "FRAME",
+                                  "fill": {
+                                    "r": 246,
+                                    "g": 241,
+                                    "b": 228,
+                                    "a": 1
+                                  },
+                                  "size": {
+                                    "x": 28,
+                                    "y": 2.237499952316284
+                                  },
+                                  "children": []
+                                },
+                                {
+                                  "name": "Illustrative case study · Central Valley, CA",
+                                  "type": "TEXT",
+                                  "text": "Illustrative case study · Central Valley, CA",
+                                  "font": "IBM Plex Sans SemiBold",
+                                  "fontSize": 12,
+                                  "fill": {
+                                    "r": 246,
+                                    "g": 241,
+                                    "b": 228,
+                                    "a": 1
+                                  },
+                                  "size": {
+                                    "x": 357,
+                                    "y": 19
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Heading",
+                      "type": "FRAME",
+                      "size": {
+                        "x": 586.0250244140625,
+                        "y": 161
+                      },
+                      "children": [
+                        {
+                          "name": "120 acres. One live decision.",
+                          "type": "TEXT",
+                          "text": "120 acres.\nOne live decision.",
+                          "font": "Fraunces Bold",
+                          "fontSize": 81.64800262451172,
+                          "fill": {
+                            "r": 245,
+                            "g": 166,
+                            "b": 35,
+                            "a": 1
+                          },
+                          "size": {
+                            "x": 549,
+                            "y": 161
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Paragraph:margin",
+                      "type": "FRAME",
+                      "size": {
+                        "x": 704,
+                        "y": 90
+                      },
+                      "children": [
+                        {
+                          "name": "A project team needs to show how processing tomato",
+                          "type": "TEXT",
+                          "text": "A project team needs to show how processing tomatoes and solar generation could share one Central Valley plot. The room wants specifics.",
+                          "font": "IBM Plex Sans Regular",
+                          "fontSize": 18.399999618530273,
+                          "fill": {
+                            "r": 246,
+                            "g": 241,
+                            "b": 228,
+                            "a": 1
+                          },
+                          "size": {
+                            "x": 704,
+                            "y": 58
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Container:margin",
+                      "type": "FRAME",
+                      "size": {
+                        "x": 1073.0999755859375,
+                        "y": 138.35000610351562
+                      },
+                      "children": [
+                        {
+                          "name": "Container",
+                          "type": "FRAME",
+                          "size": {
+                            "x": 1073.0999755859375,
+                            "y": 74.3499984741211
+                          },
+                          "children": [
+                            {
+                              "name": "Container",
+                              "type": "FRAME",
+                              "size": {
+                                "x": 268.2749938964844,
+                                "y": 74.3499984741211
+                              },
+                              "children": [
+                                {
+                                  "name": "Text",
+                                  "type": "FRAME",
+                                  "size": {
+                                    "x": 236.27500915527344,
+                                    "y": 14.875
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "Crop",
+                                      "type": "TEXT",
+                                      "text": "Crop",
+                                      "font": "IBM Plex Sans Regular",
+                                      "fontSize": 9.600000381469727,
+                                      "fill": {
+                                        "r": 246,
+                                        "g": 241,
+                                        "b": 228,
+                                        "a": 1
+                                      },
+                                      "size": {
+                                        "x": 25,
+                                        "y": 15
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Bold Text",
+                                  "type": "FRAME",
+                                  "size": {
+                                    "x": 236.27500915527344,
+                                    "y": 21.075000762939453
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "Processing tomato",
+                                      "type": "TEXT",
+                                      "text": "Processing tomato",
+                                      "font": "IBM Plex Sans Bold",
+                                      "fontSize": 13.600000381469727,
+                                      "fill": {
+                                        "r": 246,
+                                        "g": 241,
+                                        "b": 228,
+                                        "a": 1
+                                      },
+                                      "size": {
+                                        "x": 119,
+                                        "y": 22
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Container",
+                              "type": "FRAME",
+                              "size": {
+                                "x": 268.2749938964844,
+                                "y": 74.3499984741211
+                              },
+                              "children": [
+                                {
+                                  "name": "Text",
+                                  "type": "FRAME",
+                                  "size": {
+                                    "x": 235.47500610351562,
+                                    "y": 14.875
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "Layout",
+                                      "type": "TEXT",
+                                      "text": "Layout",
+                                      "font": "IBM Plex Sans Regular",
+                                      "fontSize": 9.600000381469727,
+                                      "fill": {
+                                        "r": 246,
+                                        "g": 241,
+                                        "b": 228,
+                                        "a": 1
+                                      },
+                                      "size": {
+                                        "x": 35,
+                                        "y": 15
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Bold Text",
+                                  "type": "FRAME",
+                                  "size": {
+                                    "x": 235.47500610351562,
+                                    "y": 21.075000762939453
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "24 ft rows",
+                                      "type": "TEXT",
+                                      "text": "24 ft rows",
+                                      "font": "IBM Plex Sans Bold",
+                                      "fontSize": 13.600000381469727,
+                                      "fill": {
+                                        "r": 246,
+                                        "g": 241,
+                                        "b": 228,
+                                        "a": 1
+                                      },
+                                      "size": {
+                                        "x": 65,
+                                        "y": 22
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Container",
+                              "type": "FRAME",
+                              "size": {
+                                "x": 268.2749938964844,
+                                "y": 74.3499984741211
+                              },
+                              "children": [
+                                {
+                                  "name": "Text",
+                                  "type": "FRAME",
+                                  "size": {
+                                    "x": 235.47500610351562,
+                                    "y": 14.875
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "Clearance",
+                                      "type": "TEXT",
+                                      "text": "Clearance",
+                                      "font": "IBM Plex Sans Regular",
+                                      "fontSize": 9.600000381469727,
+                                      "fill": {
+                                        "r": 246,
+                                        "g": 241,
+                                        "b": 228,
+                                        "a": 1
+                                      },
+                                      "size": {
+                                        "x": 54,
+                                        "y": 15
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Bold Text",
+                                  "type": "FRAME",
+                                  "size": {
+                                    "x": 235.47500610351562,
+                                    "y": 21.075000762939453
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "10 ft",
+                                      "type": "TEXT",
+                                      "text": "10 ft",
+                                      "font": "IBM Plex Sans Bold",
+                                      "fontSize": 13.600000381469727,
+                                      "fill": {
+                                        "r": 246,
+                                        "g": 241,
+                                        "b": 228,
+                                        "a": 1
+                                      },
+                                      "size": {
+                                        "x": 30,
+                                        "y": 22
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Container",
+                              "type": "FRAME",
+                              "size": {
+                                "x": 268.2749938964844,
+                                "y": 74.3499984741211
+                              },
+                              "children": [
+                                {
+                                  "name": "Text",
+                                  "type": "FRAME",
+                                  "size": {
+                                    "x": 235.47500610351562,
+                                    "y": 14.875
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "Evidence",
+                                      "type": "TEXT",
+                                      "text": "Evidence",
+                                      "font": "IBM Plex Sans Regular",
+                                      "fontSize": 9.600000381469727,
+                                      "fill": {
+                                        "r": 246,
+                                        "g": 241,
+                                        "b": 228,
+                                        "a": 1
+                                      },
+                                      "size": {
+                                        "x": 46,
+                                        "y": 15
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Bold Text",
+                                  "type": "FRAME",
+                                  "size": {
+                                    "x": 235.47500610351562,
+                                    "y": 21.075000762939453
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "Illustrative model",
+                                      "type": "TEXT",
+                                      "text": "Illustrative model",
+                                      "font": "IBM Plex Sans Bold",
+                                      "fontSize": 13.600000381469727,
+                                      "fill": {
+                                        "r": 246,
+                                        "g": 241,
+                                        "b": 228,
+                                        "a": 1
+                                      },
+                                      "size": {
+                                        "x": 115,
+                                        "y": 22
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Section",
+              "type": "FRAME",
+              "size": {
+                "x": 1166.4000244140625,
+                "y": 427.03900146484375
+              },
+              "children": [
+                {
+                  "name": "CaseStudyPage",
+                  "type": "FRAME",
+                  "size": {
+                    "x": 1166.4000244140625,
+                    "y": 217.08700561523438
+                  },
+                  "children": [
+                    {
+                      "name": "Container",
+                      "type": "FRAME",
+                      "size": {
+                        "x": 551.7125244140625,
+                        "y": 217.08750915527344
+                      },
+                      "children": [
+                        {
+                          "name": "Text",
+                          "type": "FRAME",
+                          "size": {
+                            "x": 551.7125244140625,
+                            "y": 18
+                          },
+                          "children": [
+                            {
+                              "name": "01",
+                              "type": "TEXT",
+                              "text": "01",
+                              "font": "IBM Plex Sans SemiBold",
+                              "fontSize": 11.199999809265137,
+                              "fill": {
+                                "r": 181,
+                                "g": 91,
+                                "b": 52,
+                                "a": 1
+                              },
+                              "size": {
+                                "x": 14,
+                                "y": 18
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Eyebrow",
+                          "type": "FRAME",
+                          "size": {
+                            "x": 551.7125244140625,
+                            "y": 50.599998474121094
+                          },
+                          "children": [
+                            {
+                              "name": "Text",
+                              "type": "FRAME",
+                              "fill": {
+                                "r": 22,
+                                "g": 33,
+                                "b": 28,
+                                "a": 1
+                              },
+                              "size": {
+                                "x": 28,
+                                "y": 2.237499952316284
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "The pitch problem",
+                              "type": "TEXT",
+                              "text": "The pitch problem",
+                              "font": "IBM Plex Sans SemiBold",
+                              "fontSize": 12,
+                              "fill": {
+                                "r": 22,
+                                "g": 33,
+                                "b": 28,
+                                "a": 1
+                              },
+                              "size": {
+                                "x": 147,
+                                "y": 19
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Heading:margin",
+                          "type": "FRAME",
+                          "size": {
+                            "x": 551.7125244140625,
+                            "y": 125.4000015258789
+                          },
+                          "children": [
+                            {
+                              "name": "Heading",
+                              "type": "FRAME",
+                              "size": {
+                                "x": 551.7125244140625,
+                                "y": 103
+                              },
+                              "children": [
+                                {
+                                  "name": "A benchmark could not answer a site question.",
+                                  "type": "TEXT",
+                                  "text": "A benchmark could not answer a site question.",
+                                  "font": "Fraunces Bold",
+                                  "fontSize": 52.487998962402344,
+                                  "fill": {
+                                    "r": 22,
+                                    "g": 33,
+                                    "b": 28,
+                                    "a": 1
+                                  },
+                                  "size": {
+                                    "x": 552,
+                                    "y": 103
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Container",
+                      "type": "FRAME",
+                      "stroke": {
+                        "r": 22,
+                        "g": 33,
+                        "b": 28
+                      },
+                      "size": {
+                        "x": 441.38751220703125,
+                        "y": 217.08750915527344
+                      },
+                      "children": [
+                        {
+                          "name": "Paragraph",
+                          "type": "FRAME",
+                          "size": {
+                            "x": 407.7875061035156,
+                            "y": 175
+                          },
+                          "children": [
+                            {
+                              "name": "The deck showed category-level water and yield cla",
+                              "type": "TEXT",
+                              "text": "The deck showed category-level water and yield claims. The landowner asked what happened when row spacing widened for farm equipment.",
+                              "font": "Fraunces SemiBold",
+                              "fontSize": 29.15999984741211,
+                              "fill": {
+                                "r": 22,
+                                "g": 33,
+                                "b": 28,
+                                "a": 1
+                              },
+                              "size": {
+                                "x": 408,
+                                "y": 175
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Paragraph",
+                          "type": "FRAME",
+                          "size": {
+                            "x": 407.7875061035156,
+                            "y": 43
+                          },
+                          "children": [
+                            {
+                              "name": "That question changes shade, panel density, crop r",
+                              "type": "TEXT",
+                              "text": "That question changes shade, panel density, crop response, and energy at once. A static slide could only promise a follow-up.",
+                              "font": "IBM Plex Sans Regular",
+                              "fontSize": 13.600000381469727,
+                              "fill": {
+                                "r": 85,
+                                "g": 97,
+                                "b": 91,
+                                "a": 1
+                              },
+                              "size": {
+                                "x": 408,
+                                "y": 43
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Section",
+              "type": "FRAME",
+              "fill": {
+                "r": 245,
+                "g": 166,
+                "b": 35,
+                "a": 1
+              },
+              "size": {
+                "x": 1166.4000244140625,
+                "y": 768.114990234375
+              },
+              "children": [
+                {
+                  "name": "CaseStudyPage",
+                  "type": "FRAME",
+                  "size": {
+                    "x": 1166.4000244140625,
+                    "y": 558.1630249023438
+                  },
+                  "children": [
+                    {
+                      "name": "Container",
+                      "type": "FRAME",
+                      "size": {
+                        "x": 1073.10009765625,
+                        "y": 194
+                      },
+                      "children": [
+                        {
+                          "name": "Container",
+                          "type": "FRAME",
+                          "size": {
+                            "x": 689.1000366210938,
+                            "y": 194
+                          },
+                          "children": [
+                            {
+                              "name": "Text",
+                              "type": "FRAME",
+                              "size": {
+                                "x": 689.1000366210938,
+                                "y": 18
+                              },
+                              "children": [
+                                {
+                                  "name": "02",
+                                  "type": "TEXT",
+                                  "text": "02",
+                                  "font": "IBM Plex Sans SemiBold",
+                                  "fontSize": 11.199999809265137,
+                                  "fill": {
+                                    "r": 181,
+                                    "g": 91,
+                                    "b": 52,
+                                    "a": 1
+                                  },
+                                  "size": {
+                                    "x": 14,
+                                    "y": 18
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Eyebrow",
+                              "type": "FRAME",
+                              "size": {
+                                "x": 689.1000366210938,
+                                "y": 50.599998474121094
+                              },
+                              "children": [
+                                {
+                                  "name": "Text",
+                                  "type": "FRAME",
+                                  "fill": {
+                                    "r": 22,
+                                    "g": 33,
+                                    "b": 28,
+                                    "a": 1
+                                  },
+                                  "size": {
+                                    "x": 28,
+                                    "y": 2.237499952316284
+                                  },
+                                  "children": []
+                                },
+                                {
+                                  "name": "The live model",
+                                  "type": "TEXT",
+                                  "text": "The live model",
+                                  "font": "IBM Plex Sans SemiBold",
+                                  "fontSize": 12,
+                                  "fill": {
+                                    "r": 22,
+                                    "g": 33,
+                                    "b": 28,
+                                    "a": 1
+                                  },
+                                  "size": {
+                                    "x": 117,
+                                    "y": 19
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Heading:margin",
+                              "type": "FRAME",
+                              "size": {
+                                "x": 689.1000366210938,
+                                "y": 125.4000015258789
+                              },
+                              "children": [
+                                {
+                                  "name": "Heading",
+                                  "type": "FRAME",
+                                  "size": {
+                                    "x": 689.1000366210938,
+                                    "y": 103
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "Put the trade-off where everyone can see it.",
+                                      "type": "TEXT",
+                                      "text": "Put the trade-off where everyone can see it.",
+                                      "font": "Fraunces Bold",
+                                      "fontSize": 52.487998962402344,
+                                      "fill": {
+                                        "r": 22,
+                                        "g": 33,
+                                        "b": 28,
+                                        "a": 1
+                                      },
+                                      "size": {
+                                        "x": 690,
+                                        "y": 103
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Paragraph",
+                          "type": "FRAME",
+                          "size": {
+                            "x": 384,
+                            "y": 84
+                          },
+                          "children": [
+                            {
+                              "name": "The team sets the plot, crop, clearance, and spaci",
+                              "type": "TEXT",
+                              "text": "The team sets the plot, crop, clearance, and spacing. Four outputs move from the same inputs.",
+                              "font": "IBM Plex Sans Regular",
+                              "fontSize": 18,
+                              "fill": {
+                                "r": 22,
+                                "g": 33,
+                                "b": 28,
+                                "a": 1
+                              },
+                              "size": {
+                                "x": 384,
+                                "y": 84
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Container:margin",
+                      "type": "FRAME",
+                      "size": {
+                        "x": 1073.0999755859375,
+                        "y": 324.76300048828125
+                      },
+                      "children": [
+                        {
+                          "name": "Container",
+                          "type": "FRAME",
+                          "size": {
+                            "x": 1073.0999755859375,
+                            "y": 260.76300048828125
+                          },
+                          "children": [
+                            {
+                              "name": "Container",
+                              "type": "FRAME",
+                              "fill": {
+                                "r": 255,
+                                "g": 253,
+                                "b": 245,
+                                "a": 1
+                              },
+                              "stroke": {
+                                "r": 22,
+                                "g": 33,
+                                "b": 28
+                              },
+                              "size": {
+                                "x": 331.2124938964844,
+                                "y": 260.76251220703125
+                              },
+                              "children": [
+                                {
+                                  "name": "Text",
+                                  "type": "FRAME",
+                                  "size": {
+                                    "x": 283.2124938964844,
+                                    "y": 17
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "Inputs",
+                                      "type": "TEXT",
+                                      "text": "Inputs",
+                                      "font": "IBM Plex Sans SemiBold",
+                                      "fontSize": 10.399999618530273,
+                                      "fill": {
+                                        "r": 22,
+                                        "g": 33,
+                                        "b": 28,
+                                        "a": 1
+                                      },
+                                      "size": {
+                                        "x": 43,
+                                        "y": 17
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Container",
+                                  "type": "FRAME",
+                                  "stroke": {
+                                    "r": 184,
+                                    "g": 183,
+                                    "b": 170
+                                  },
+                                  "size": {
+                                    "x": 283.2124938964844,
+                                    "y": 57.54999923706055
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "24",
+                                      "type": "TEXT",
+                                      "text": "24",
+                                      "font": "IBM Plex Sans Bold",
+                                      "fontSize": 23.200000762939453,
+                                      "fill": {
+                                        "r": 22,
+                                        "g": 33,
+                                        "b": 28,
+                                        "a": 1
+                                      },
+                                      "size": {
+                                        "x": 28,
+                                        "y": 36
+                                      },
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "ft rows",
+                                      "type": "TEXT",
+                                      "text": "ft rows",
+                                      "font": "IBM Plex Sans Regular",
+                                      "fontSize": 9.920000076293945,
+                                      "fill": {
+                                        "r": 22,
+                                        "g": 33,
+                                        "b": 28,
+                                        "a": 1
+                                      },
+                                      "size": {
+                                        "x": 42,
+                                        "y": 16
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Container",
+                                  "type": "FRAME",
+                                  "stroke": {
+                                    "r": 184,
+                                    "g": 183,
+                                    "b": 170
+                                  },
+                                  "size": {
+                                    "x": 283.2124938964844,
+                                    "y": 57.54999923706055
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "10",
+                                      "type": "TEXT",
+                                      "text": "10",
+                                      "font": "IBM Plex Sans Bold",
+                                      "fontSize": 23.200000762939453,
+                                      "fill": {
+                                        "r": 22,
+                                        "g": 33,
+                                        "b": 28,
+                                        "a": 1
+                                      },
+                                      "size": {
+                                        "x": 28,
+                                        "y": 36
+                                      },
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "ft clearance",
+                                      "type": "TEXT",
+                                      "text": "ft clearance",
+                                      "font": "IBM Plex Sans Regular",
+                                      "fontSize": 9.920000076293945,
+                                      "fill": {
+                                        "r": 22,
+                                        "g": 33,
+                                        "b": 28,
+                                        "a": 1
+                                      },
+                                      "size": {
+                                        "x": 69,
+                                        "y": 16
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Container:margin",
+                                  "type": "FRAME",
+                                  "size": {
+                                    "x": 283.2124938964844,
+                                    "y": 81.55000305175781
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "Container",
+                                      "type": "FRAME",
+                                      "stroke": {
+                                        "r": 184,
+                                        "g": 183,
+                                        "b": 170
+                                      },
+                                      "size": {
+                                        "x": 283.2124938964844,
+                                        "y": 57.54999923706055
+                                      },
+                                      "children": [
+                                        {
+                                          "name": "120",
+                                          "type": "TEXT",
+                                          "text": "120",
+                                          "font": "IBM Plex Sans Bold",
+                                          "fontSize": 23.200000762939453,
+                                          "fill": {
+                                            "r": 22,
+                                            "g": 33,
+                                            "b": 28,
+                                            "a": 1
+                                          },
+                                          "size": {
+                                            "x": 42,
+                                            "y": 36
+                                          },
+                                          "children": []
+                                        },
+                                        {
+                                          "name": "acres",
+                                          "type": "TEXT",
+                                          "text": "acres",
+                                          "font": "IBM Plex Sans Regular",
+                                          "fontSize": 9.920000076293945,
+                                          "fill": {
+                                            "r": 22,
+                                            "g": 33,
+                                            "b": 28,
+                                            "a": 1
+                                          },
+                                          "size": {
+                                            "x": 31,
+                                            "y": 16
+                                          },
+                                          "children": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Container",
+                              "type": "FRAME",
+                              "size": {
+                                "x": 48,
+                                "y": 260.76251220703125
+                              },
+                              "children": [
+                                {
+                                  "name": "Text",
+                                  "type": "FRAME",
+                                  "fill": {
+                                    "r": 22,
+                                    "g": 33,
+                                    "b": 28,
+                                    "a": 1
+                                  },
+                                  "size": {
+                                    "x": 13.600000381469727,
+                                    "y": 1.600000023841858
+                                  },
+                                  "children": []
+                                },
+                                {
+                                  "name": "Bold Text",
+                                  "type": "FRAME",
+                                  "size": {
+                                    "x": 19,
+                                    "y": 33
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "→",
+                                      "type": "TEXT",
+                                      "text": "→",
+                                      "font": "IBM Plex Sans Bold",
+                                      "fontSize": 20.799999237060547,
+                                      "fill": {
+                                        "r": 22,
+                                        "g": 33,
+                                        "b": 28,
+                                        "a": 1
+                                      },
+                                      "size": {
+                                        "x": 19,
+                                        "y": 33
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Text",
+                                  "type": "FRAME",
+                                  "fill": {
+                                    "r": 22,
+                                    "g": 33,
+                                    "b": 28,
+                                    "a": 1
+                                  },
+                                  "size": {
+                                    "x": 13.600000381469727,
+                                    "y": 1.600000023841858
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Container",
+                              "type": "FRAME",
+                              "fill": {
+                                "r": 27,
+                                "g": 67,
+                                "b": 50,
+                                "a": 1
+                              },
+                              "stroke": {
+                                "r": 22,
+                                "g": 33,
+                                "b": 28
+                              },
+                              "size": {
+                                "x": 231.85000610351562,
+                                "y": 260.76251220703125
+                              },
+                              "children": [
+                                {
+                                  "name": "22% shade",
+                                  "type": "TEXT",
+                                  "text": "22% shade",
+                                  "font": "IBM Plex Sans Bold",
+                                  "fontSize": 20.799999237060547,
+                                  "fill": {
+                                    "r": 246,
+                                    "g": 241,
+                                    "b": 228,
+                                    "a": 1
+                                  },
+                                  "size": {
+                                    "x": 110,
+                                    "y": 33
+                                  },
+                                  "children": []
+                                },
+                                {
+                                  "name": "Text:margin",
+                                  "type": "FRAME",
+                                  "size": {
+                                    "x": 70,
+                                    "y": 41
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "Mechanism",
+                                      "type": "TEXT",
+                                      "text": "Mechanism",
+                                      "font": "IBM Plex Sans SemiBold",
+                                      "fontSize": 10.399999618530273,
+                                      "fill": {
+                                        "r": 246,
+                                        "g": 241,
+                                        "b": 228,
+                                        "a": 1
+                                      },
+                                      "size": {
+                                        "x": 70,
+                                        "y": 17
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Icon:margin",
+                                  "type": "FRAME",
+                                  "size": {
+                                    "x": 56,
+                                    "y": 72
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "Icon",
+                                      "type": "FRAME",
+                                      "size": {
+                                        "x": 56,
+                                        "y": 56
+                                      },
+                                      "children": [
+                                        {
+                                          "name": "Vector",
+                                          "type": "VECTOR",
+                                          "stroke": {
+                                            "r": 245,
+                                            "g": 166,
+                                            "b": 35
+                                          },
+                                          "size": {
+                                            "x": 16.333332061767578,
+                                            "y": 16.333332061767578
+                                          },
+                                          "children": []
+                                        },
+                                        {
+                                          "name": "Vector",
+                                          "type": "VECTOR",
+                                          "stroke": {
+                                            "r": 245,
+                                            "g": 166,
+                                            "b": 35
+                                          },
+                                          "size": {
+                                            "x": 46.666664123535156,
+                                            "y": 46.666664123535156
+                                          },
+                                          "children": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Container",
+                              "type": "FRAME",
+                              "size": {
+                                "x": 48,
+                                "y": 260.76251220703125
+                              },
+                              "children": [
+                                {
+                                  "name": "Text",
+                                  "type": "FRAME",
+                                  "fill": {
+                                    "r": 22,
+                                    "g": 33,
+                                    "b": 28,
+                                    "a": 1
+                                  },
+                                  "size": {
+                                    "x": 13.600000381469727,
+                                    "y": 1.600000023841858
+                                  },
+                                  "children": []
+                                },
+                                {
+                                  "name": "Bold Text",
+                                  "type": "FRAME",
+                                  "size": {
+                                    "x": 19,
+                                    "y": 33
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "→",
+                                      "type": "TEXT",
+                                      "text": "→",
+                                      "font": "IBM Plex Sans Bold",
+                                      "fontSize": 20.799999237060547,
+                                      "fill": {
+                                        "r": 22,
+                                        "g": 33,
+                                        "b": 28,
+                                        "a": 1
+                                      },
+                                      "size": {
+                                        "x": 19,
+                                        "y": 33
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Text",
+                                  "type": "FRAME",
+                                  "fill": {
+                                    "r": 22,
+                                    "g": 33,
+                                    "b": 28,
+                                    "a": 1
+                                  },
+                                  "size": {
+                                    "x": 13.600000381469727,
+                                    "y": 1.600000023841858
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Container",
+                              "type": "FRAME",
+                              "fill": {
+                                "r": 255,
+                                "g": 253,
+                                "b": 245,
+                                "a": 1
+                              },
+                              "stroke": {
+                                "r": 22,
+                                "g": 33,
+                                "b": 28
+                              },
+                              "size": {
+                                "x": 414.0370178222656,
+                                "y": 260.76300048828125
+                              },
+                              "children": [
+                                {
+                                  "name": "Container",
+                                  "type": "FRAME",
+                                  "fill": {
+                                    "r": 246,
+                                    "g": 241,
+                                    "b": 228,
+                                    "a": 1
+                                  },
+                                  "size": {
+                                    "x": 116.13750457763672,
+                                    "y": 142.3874969482422
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "Bold Text",
+                                      "type": "FRAME",
+                                      "size": {
+                                        "x": 90.5374984741211,
+                                        "y": 43.10000228881836
+                                      },
+                                      "children": [
+                                        {
+                                          "name": "103.0%",
+                                          "type": "TEXT",
+                                          "text": "103.0%",
+                                          "font": "IBM Plex Sans Bold",
+                                          "fontSize": 23.200000762939453,
+                                          "fill": {
+                                            "r": 22,
+                                            "g": 33,
+                                            "b": 28,
+                                            "a": 1
+                                          },
+                                          "size": {
+                                            "x": 86,
+                                            "y": 36
+                                          },
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "Small",
+                                      "type": "FRAME",
+                                      "size": {
+                                        "x": 90.5374984741211,
+                                        "y": 22.537500381469727
+                                      },
+                                      "children": [
+                                        {
+                                          "name": "crop yield",
+                                          "type": "TEXT",
+                                          "text": "crop yield",
+                                          "font": "IBM Plex Sans Regular",
+                                          "fontSize": 9.920000076293945,
+                                          "fill": {
+                                            "r": 22,
+                                            "g": 33,
+                                            "b": 28,
+                                            "a": 1
+                                          },
+                                          "size": {
+                                            "x": 56,
+                                            "y": 16
+                                          },
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "Icon:margin",
+                                      "type": "FRAME",
+                                      "size": {
+                                        "x": 21.600000381469727,
+                                        "y": 44
+                                      },
+                                      "children": [
+                                        {
+                                          "name": "Icon",
+                                          "type": "FRAME",
+                                          "size": {
+                                            "x": 21.600000381469727,
+                                            "y": 21.600000381469727
+                                          },
+                                          "children": [
+                                            {
+                                              "name": "Vector",
+                                              "type": "VECTOR",
+                                              "stroke": {
+                                                "r": 22,
+                                                "g": 33,
+                                                "b": 28
+                                              },
+                                              "size": {
+                                                "x": 0,
+                                                "y": 10.799999237060547
+                                              },
+                                              "children": []
+                                            },
+                                            {
+                                              "name": "Vector",
+                                              "type": "VECTOR",
+                                              "stroke": {
+                                                "r": 22,
+                                                "g": 33,
+                                                "b": 28
+                                              },
+                                              "size": {
+                                                "x": 10.799999237060547,
+                                                "y": 9
+                                              },
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Container",
+                                  "type": "FRAME",
+                                  "fill": {
+                                    "r": 246,
+                                    "g": 241,
+                                    "b": 228,
+                                    "a": 1
+                                  },
+                                  "size": {
+                                    "x": 116.1500015258789,
+                                    "y": 142.3874969482422
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "Bold Text",
+                                      "type": "FRAME",
+                                      "size": {
+                                        "x": 90.55000305175781,
+                                        "y": 43.10000228881836
+                                      },
+                                      "children": [
+                                        {
+                                          "name": "17%",
+                                          "type": "TEXT",
+                                          "text": "17%",
+                                          "font": "IBM Plex Sans Bold",
+                                          "fontSize": 23.200000762939453,
+                                          "fill": {
+                                            "r": 22,
+                                            "g": 33,
+                                            "b": 28,
+                                            "a": 1
+                                          },
+                                          "size": {
+                                            "x": 51,
+                                            "y": 36
+                                          },
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "Small",
+                                      "type": "FRAME",
+                                      "size": {
+                                        "x": 90.55000305175781,
+                                        "y": 22.537500381469727
+                                      },
+                                      "children": [
+                                        {
+                                          "name": "water saved",
+                                          "type": "TEXT",
+                                          "text": "water saved",
+                                          "font": "IBM Plex Sans Regular",
+                                          "fontSize": 9.920000076293945,
+                                          "fill": {
+                                            "r": 22,
+                                            "g": 33,
+                                            "b": 28,
+                                            "a": 1
+                                          },
+                                          "size": {
+                                            "x": 65,
+                                            "y": 16
+                                          },
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "Icon:margin",
+                                      "type": "FRAME",
+                                      "size": {
+                                        "x": 21.600000381469727,
+                                        "y": 44
+                                      },
+                                      "children": [
+                                        {
+                                          "name": "Icon",
+                                          "type": "FRAME",
+                                          "size": {
+                                            "x": 21.600000381469727,
+                                            "y": 21.600000381469727
+                                          },
+                                          "children": [
+                                            {
+                                              "name": "Vector",
+                                              "type": "VECTOR",
+                                              "stroke": {
+                                                "r": 22,
+                                                "g": 33,
+                                                "b": 28
+                                              },
+                                              "size": {
+                                                "x": 10.799999237060547,
+                                                "y": 15.299999237060547
+                                              },
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Container",
+                                  "type": "FRAME",
+                                  "fill": {
+                                    "r": 246,
+                                    "g": 241,
+                                    "b": 228,
+                                    "a": 1
+                                  },
+                                  "size": {
+                                    "x": 116.1500015258789,
+                                    "y": 142.3874969482422
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "Bold Text",
+                                      "type": "FRAME",
+                                      "size": {
+                                        "x": 90.55000305175781,
+                                        "y": 43.10000228881836
+                                      },
+                                      "children": [
+                                        {
+                                          "name": "17,868",
+                                          "type": "TEXT",
+                                          "text": "17,868",
+                                          "font": "IBM Plex Sans Bold",
+                                          "fontSize": 23.200000762939453,
+                                          "fill": {
+                                            "r": 22,
+                                            "g": 33,
+                                            "b": 28,
+                                            "a": 1
+                                          },
+                                          "size": {
+                                            "x": 77,
+                                            "y": 36
+                                          },
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "Small",
+                                      "type": "FRAME",
+                                      "size": {
+                                        "x": 90.55000305175781,
+                                        "y": 22.537500381469727
+                                      },
+                                      "children": [
+                                        {
+                                          "name": "MWh / year",
+                                          "type": "TEXT",
+                                          "text": "MWh / year",
+                                          "font": "IBM Plex Sans Regular",
+                                          "fontSize": 9.920000076293945,
+                                          "fill": {
+                                            "r": 22,
+                                            "g": 33,
+                                            "b": 28,
+                                            "a": 1
+                                          },
+                                          "size": {
+                                            "x": 57,
+                                            "y": 16
+                                          },
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "Icon:margin",
+                                      "type": "FRAME",
+                                      "size": {
+                                        "x": 21.600000381469727,
+                                        "y": 44
+                                      },
+                                      "children": [
+                                        {
+                                          "name": "Icon",
+                                          "type": "FRAME",
+                                          "size": {
+                                            "x": 21.600000381469727,
+                                            "y": 21.600000381469727
+                                          },
+                                          "children": [
+                                            {
+                                              "name": "Vector",
+                                              "type": "VECTOR",
+                                              "stroke": {
+                                                "r": 22,
+                                                "g": 33,
+                                                "b": 28
+                                              },
+                                              "size": {
+                                                "x": 12.59999942779541,
+                                                "y": 18
+                                              },
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Text:margin",
+                                  "type": "FRAME",
+                                  "size": {
+                                    "x": 366.0375061035156,
+                                    "y": 61.57500076293945
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "Text",
+                                      "type": "FRAME",
+                                      "size": {
+                                        "x": 366.0375061035156,
+                                        "y": 37.57500076293945
+                                      },
+                                      "children": [
+                                        {
+                                          "name": "Outputs",
+                                          "type": "TEXT",
+                                          "text": "Outputs",
+                                          "font": "IBM Plex Sans SemiBold",
+                                          "fontSize": 10.399999618530273,
+                                          "fill": {
+                                            "r": 22,
+                                            "g": 33,
+                                            "b": 28,
+                                            "a": 1
+                                          },
+                                          "size": {
+                                            "x": 52,
+                                            "y": 17
+                                          },
+                                          "children": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Paragraph:margin",
+                      "type": "FRAME",
+                      "size": {
+                        "x": 1073.0999755859375,
+                        "y": 39.400001525878906
+                      },
+                      "children": [
+                        {
+                          "name": "Paragraph",
+                          "type": "FRAME",
+                          "size": {
+                            "x": 1073.0999755859375,
+                            "y": 17
+                          },
+                          "children": [
+                            {
+                              "name": "Illustrative modeled estimate. Values use demonstr",
+                              "type": "TEXT",
+                              "text": "Illustrative modeled estimate. Values use demonstration coefficients, not measured field performance.",
+                              "font": "IBM Plex Sans Regular",
+                              "fontSize": 10.880000114440918,
+                              "fill": {
+                                "r": 22,
+                                "g": 33,
+                                "b": 28,
+                                "a": 1
+                              },
+                              "size": {
+                                "x": 501,
+                                "y": 17
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Section",
+              "type": "FRAME",
+              "size": {
+                "x": 1166.4000244140625,
+                "y": 995.2020263671875
+              },
+              "children": [
+                {
+                  "name": "CaseStudyPage",
+                  "type": "FRAME",
+                  "size": {
+                    "x": 1166.4000244140625,
+                    "y": 785.25
+                  },
+                  "children": [
+                    {
+                      "name": "Container",
+                      "type": "FRAME",
+                      "size": {
+                        "x": 1073.0999755859375,
+                        "y": 193.22500610351562
+                      },
+                      "children": [
+                        {
+                          "name": "Container",
+                          "type": "FRAME",
+                          "size": {
+                            "x": 551.7125244140625,
+                            "y": 193.22500610351562
+                          },
+                          "children": [
+                            {
+                              "name": "Text",
+                              "type": "FRAME",
+                              "size": {
+                                "x": 551.7125244140625,
+                                "y": 18
+                              },
+                              "children": [
+                                {
+                                  "name": "03",
+                                  "type": "TEXT",
+                                  "text": "03",
+                                  "font": "IBM Plex Sans SemiBold",
+                                  "fontSize": 11.199999809265137,
+                                  "fill": {
+                                    "r": 181,
+                                    "g": 91,
+                                    "b": 52,
+                                    "a": 1
+                                  },
+                                  "size": {
+                                    "x": 14,
+                                    "y": 18
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Eyebrow",
+                              "type": "FRAME",
+                              "size": {
+                                "x": 551.7125244140625,
+                                "y": 50.599998474121094
+                              },
+                              "children": [
+                                {
+                                  "name": "Text",
+                                  "type": "FRAME",
+                                  "fill": {
+                                    "r": 22,
+                                    "g": 33,
+                                    "b": 28,
+                                    "a": 1
+                                  },
+                                  "size": {
+                                    "x": 28,
+                                    "y": 2.237499952316284
+                                  },
+                                  "children": []
+                                },
+                                {
+                                  "name": "The outcome",
+                                  "type": "TEXT",
+                                  "text": "The outcome",
+                                  "font": "IBM Plex Sans SemiBold",
+                                  "fontSize": 12,
+                                  "fill": {
+                                    "r": 22,
+                                    "g": 33,
+                                    "b": 28,
+                                    "a": 1
+                                  },
+                                  "size": {
+                                    "x": 100,
+                                    "y": 19
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Heading:margin",
+                              "type": "FRAME",
+                              "size": {
+                                "x": 551.7125244140625,
+                                "y": 125.4000015258789
+                              },
+                              "children": [
+                                {
+                                  "name": "Heading",
+                                  "type": "FRAME",
+                                  "size": {
+                                    "x": 551.7125244140625,
+                                    "y": 103
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "The room can debate the same model.",
+                                      "type": "TEXT",
+                                      "text": "The room can debate the same model.",
+                                      "font": "Fraunces Bold",
+                                      "fontSize": 52.487998962402344,
+                                      "fill": {
+                                        "r": 22,
+                                        "g": 33,
+                                        "b": 28,
+                                        "a": 1
+                                      },
+                                      "size": {
+                                        "x": 552,
+                                        "y": 103
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "The modeled result is not the final answer. It is ",
+                          "type": "TEXT",
+                          "text": "The modeled result is not the final answer. It is a shared, inspectable starting point for the decision.",
+                          "font": "IBM Plex Sans Regular",
+                          "fontSize": 18,
+                          "fill": {
+                            "r": 22,
+                            "g": 33,
+                            "b": 28,
+                            "a": 1
+                          },
+                          "size": {
+                            "x": 384,
+                            "y": 84
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Container:margin",
+                      "type": "FRAME",
+                      "size": {
+                        "x": 1073.0999755859375,
+                        "y": 336
+                      },
+                      "children": [
+                        {
+                          "name": "Container",
+                          "type": "FRAME",
+                          "size": {
+                            "x": 1073.0999755859375,
+                            "y": 272
+                          },
+                          "children": [
+                            {
+                              "name": "Article",
+                              "type": "FRAME",
+                              "fill": {
+                                "r": 255,
+                                "g": 253,
+                                "b": 245,
+                                "a": 1
+                              },
+                              "stroke": {
+                                "r": 22,
+                                "g": 33,
+                                "b": 28
+                              },
+                              "size": {
+                                "x": 528.5499877929688,
+                                "y": 272
+                              },
+                              "children": [
+                                {
+                                  "name": "Bold Text",
+                                  "type": "FRAME",
+                                  "size": {
+                                    "x": 432.0500183105469,
+                                    "y": 105
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "“Studies show...”",
+                                      "type": "TEXT",
+                                      "text": "“Studies show...”",
+                                      "font": "Fraunces Bold",
+                                      "fontSize": 46.65599822998047,
+                                      "fill": {
+                                        "r": 22,
+                                        "g": 33,
+                                        "b": 28,
+                                        "a": 1
+                                      },
+                                      "size": {
+                                        "x": 380,
+                                        "y": 73
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Paragraph",
+                                  "type": "FRAME",
+                                  "size": {
+                                    "x": 416,
+                                    "y": 32.79999923706055
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "A detached claim with no visible path back to this",
+                                      "type": "TEXT",
+                                      "text": "A detached claim with no visible path back to this plot.",
+                                      "font": "IBM Plex Sans Regular",
+                                      "fontSize": 12.800000190734863,
+                                      "fill": {
+                                        "r": 22,
+                                        "g": 33,
+                                        "b": 28,
+                                        "a": 1
+                                      },
+                                      "size": {
+                                        "x": 312,
+                                        "y": 20
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Container",
+                                  "type": "FRAME",
+                                  "size": {
+                                    "x": 432.0379943847656,
+                                    "y": 27.893901824951172
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "Instead of",
+                                      "type": "TEXT",
+                                      "text": "Instead of",
+                                      "font": "IBM Plex Sans SemiBold",
+                                      "fontSize": 10.399999618530273,
+                                      "fill": {
+                                        "r": 22,
+                                        "g": 33,
+                                        "b": 28,
+                                        "a": 1
+                                      },
+                                      "size": {
+                                        "x": 61,
+                                        "y": 17
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Article",
+                              "type": "FRAME",
+                              "fill": {
+                                "r": 58,
+                                "g": 175,
+                                "b": 217,
+                                "a": 1
+                              },
+                              "stroke": {
+                                "r": 22,
+                                "g": 33,
+                                "b": 28
+                              },
+                              "size": {
+                                "x": 528.5499877929688,
+                                "y": 272
+                              },
+                              "children": [
+                                {
+                                  "name": "Bold Text",
+                                  "type": "FRAME",
+                                  "size": {
+                                    "x": 432.0500183105469,
+                                    "y": 105
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "“Move the rows.”",
+                                      "type": "TEXT",
+                                      "text": "“Move the rows.”",
+                                      "font": "Fraunces Bold",
+                                      "fontSize": 46.65599822998047,
+                                      "fill": {
+                                        "r": 22,
+                                        "g": 33,
+                                        "b": 28,
+                                        "a": 1
+                                      },
+                                      "size": {
+                                        "x": 382,
+                                        "y": 73
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Paragraph",
+                                  "type": "FRAME",
+                                  "size": {
+                                    "x": 416,
+                                    "y": 32.79999923706055
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "The stakeholder changes the premise and sees every",
+                                      "type": "TEXT",
+                                      "text": "The stakeholder changes the premise and sees every result.",
+                                      "font": "IBM Plex Sans Regular",
+                                      "fontSize": 12.800000190734863,
+                                      "fill": {
+                                        "r": 22,
+                                        "g": 33,
+                                        "b": 28,
+                                        "a": 1
+                                      },
+                                      "size": {
+                                        "x": 344,
+                                        "y": 20
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Container",
+                                  "type": "FRAME",
+                                  "size": {
+                                    "x": 432.0379943847656,
+                                    "y": 27.893901824951172
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "In the room",
+                                      "type": "TEXT",
+                                      "text": "In the room",
+                                      "font": "IBM Plex Sans SemiBold",
+                                      "fontSize": 10.399999618530273,
+                                      "fill": {
+                                        "r": 22,
+                                        "g": 33,
+                                        "b": 28,
+                                        "a": 1
+                                      },
+                                      "size": {
+                                        "x": 67,
+                                        "y": 17
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Container:margin",
+                      "type": "FRAME",
+                      "size": {
+                        "x": 1073.0999755859375,
+                        "y": 256.0249938964844
+                      },
+                      "children": [
+                        {
+                          "name": "Container",
+                          "type": "FRAME",
+                          "stroke": {
+                            "r": 22,
+                            "g": 33,
+                            "b": 28
+                          },
+                          "size": {
+                            "x": 1073.0999755859375,
+                            "y": 176.02499389648438
+                          },
+                          "children": [
+                            {
+                              "name": "Container",
+                              "type": "FRAME",
+                              "size": {
+                                "x": 1073.0999755859375,
+                                "y": 17.350000381469727
+                              },
+                              "children": [
+                                {
+                                  "name": "Bold Text",
+                                  "type": "FRAME",
+                                  "size": {
+                                    "x": 141,
+                                    "y": 17.350000381469727
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "Scenario assumptions",
+                                      "type": "TEXT",
+                                      "text": "Scenario assumptions",
+                                      "font": "IBM Plex Sans Bold",
+                                      "fontSize": 11.199999809265137,
+                                      "fill": {
+                                        "r": 22,
+                                        "g": 33,
+                                        "b": 28,
+                                        "a": 1
+                                      },
+                                      "size": {
+                                        "x": 141,
+                                        "y": 18
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Text",
+                                  "type": "FRAME",
+                                  "size": {
+                                    "x": 182,
+                                    "y": 17.350000381469727
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "Illustrative modeled estimate",
+                                      "type": "TEXT",
+                                      "text": "Illustrative modeled estimate",
+                                      "font": "IBM Plex Sans Regular",
+                                      "fontSize": 11.199999809265137,
+                                      "fill": {
+                                        "r": 22,
+                                        "g": 33,
+                                        "b": 28,
+                                        "a": 1
+                                      },
+                                      "size": {
+                                        "x": 182,
+                                        "y": 18
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Paragraph",
+                              "type": "FRAME",
+                              "size": {
+                                "x": 1073.0999755859375,
+                                "y": 38.79999923706055
+                              },
+                              "children": [
+                                {
+                                  "name": "A real project requires site survey, weather, crop",
+                                  "type": "TEXT",
+                                  "text": "A real project requires site survey, weather, crop, equipment, engineering, interconnection, and financial data.",
+                                  "font": "IBM Plex Sans Regular",
+                                  "fontSize": 11.199999809265137,
+                                  "fill": {
+                                    "r": 85,
+                                    "g": 97,
+                                    "b": 91,
+                                    "a": 1
+                                  },
+                                  "size": {
+                                    "x": 550,
+                                    "y": 18
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Definition List:margin",
+                              "type": "FRAME",
+                              "size": {
+                                "x": 1073.0999755859375,
+                                "y": 94.27499389648438
+                              },
+                              "children": [
+                                {
+                                  "name": "Definition List",
+                                  "type": "FRAME",
+                                  "stroke": {
+                                    "r": 22,
+                                    "g": 33,
+                                    "b": 28
+                                  },
+                                  "size": {
+                                    "x": 1073.0999755859375,
+                                    "y": 73.4749984741211
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "Container",
+                                      "type": "FRAME",
+                                      "size": {
+                                        "x": 268.2749938964844,
+                                        "y": 71.875
+                                      },
+                                      "children": [
+                                        {
+                                          "name": "Definition Term",
+                                          "type": "FRAME",
+                                          "size": {
+                                            "x": 236.27500915527344,
+                                            "y": 15
+                                          },
+                                          "children": [
+                                            {
+                                              "name": "Region profile",
+                                              "type": "TEXT",
+                                              "text": "Region profile",
+                                              "font": "IBM Plex Sans Regular",
+                                              "fontSize": 9.600000381469727,
+                                              "fill": {
+                                                "r": 85,
+                                                "g": 97,
+                                                "b": 91,
+                                                "a": 1
+                                              },
+                                              "size": {
+                                                "x": 77,
+                                                "y": 15
+                                              },
+                                              "children": []
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "Definition Description",
+                                          "type": "FRAME",
+                                          "size": {
+                                            "x": 236.27499389648438,
+                                            "y": 25.399999618530273
+                                          },
+                                          "children": [
+                                            {
+                                              "name": "Central Valley, CA",
+                                              "type": "TEXT",
+                                              "text": "Central Valley, CA",
+                                              "font": "IBM Plex Sans SemiBold",
+                                              "fontSize": 12,
+                                              "fill": {
+                                                "r": 22,
+                                                "g": 33,
+                                                "b": 28,
+                                                "a": 1
+                                              },
+                                              "size": {
+                                                "x": 99,
+                                                "y": 19
+                                              },
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "Container",
+                                      "type": "FRAME",
+                                      "stroke": {
+                                        "r": 22,
+                                        "g": 33,
+                                        "b": 28
+                                      },
+                                      "size": {
+                                        "x": 268.2749938964844,
+                                        "y": 71.875
+                                      },
+                                      "children": [
+                                        {
+                                          "name": "Definition Term",
+                                          "type": "FRAME",
+                                          "size": {
+                                            "x": 235.47500610351562,
+                                            "y": 15
+                                          },
+                                          "children": [
+                                            {
+                                              "name": "Crop reference",
+                                              "type": "TEXT",
+                                              "text": "Crop reference",
+                                              "font": "IBM Plex Sans Regular",
+                                              "fontSize": 9.600000381469727,
+                                              "fill": {
+                                                "r": 85,
+                                                "g": 97,
+                                                "b": 91,
+                                                "a": 1
+                                              },
+                                              "size": {
+                                                "x": 80,
+                                                "y": 15
+                                              },
+                                              "children": []
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "Definition Description",
+                                          "type": "FRAME",
+                                          "size": {
+                                            "x": 235.47499084472656,
+                                            "y": 25.399999618530273
+                                          },
+                                          "children": [
+                                            {
+                                              "name": "50 tons / acre",
+                                              "type": "TEXT",
+                                              "text": "50 tons / acre",
+                                              "font": "IBM Plex Sans SemiBold",
+                                              "fontSize": 12,
+                                              "fill": {
+                                                "r": 22,
+                                                "g": 33,
+                                                "b": 28,
+                                                "a": 1
+                                              },
+                                              "size": {
+                                                "x": 77,
+                                                "y": 19
+                                              },
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "Container",
+                                      "type": "FRAME",
+                                      "stroke": {
+                                        "r": 22,
+                                        "g": 33,
+                                        "b": 28
+                                      },
+                                      "size": {
+                                        "x": 268.2749938964844,
+                                        "y": 71.875
+                                      },
+                                      "children": [
+                                        {
+                                          "name": "Definition Term",
+                                          "type": "FRAME",
+                                          "size": {
+                                            "x": 235.47500610351562,
+                                            "y": 15
+                                          },
+                                          "children": [
+                                            {
+                                              "name": "Shade logic",
+                                              "type": "TEXT",
+                                              "text": "Shade logic",
+                                              "font": "IBM Plex Sans Regular",
+                                              "fontSize": 9.600000381469727,
+                                              "fill": {
+                                                "r": 85,
+                                                "g": 97,
+                                                "b": 91,
+                                                "a": 1
+                                              },
+                                              "size": {
+                                                "x": 61,
+                                                "y": 15
+                                              },
+                                              "children": []
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "Definition Description",
+                                          "type": "FRAME",
+                                          "size": {
+                                            "x": 235.47499084472656,
+                                            "y": 25.399999618530273
+                                          },
+                                          "children": [
+                                            {
+                                              "name": "Row spacing + panel clearance",
+                                              "type": "TEXT",
+                                              "text": "Row spacing + panel clearance",
+                                              "font": "IBM Plex Sans SemiBold",
+                                              "fontSize": 12,
+                                              "fill": {
+                                                "r": 22,
+                                                "g": 33,
+                                                "b": 28,
+                                                "a": 1
+                                              },
+                                              "size": {
+                                                "x": 172,
+                                                "y": 19
+                                              },
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "Container",
+                                      "type": "FRAME",
+                                      "stroke": {
+                                        "r": 22,
+                                        "g": 33,
+                                        "b": 28
+                                      },
+                                      "size": {
+                                        "x": 268.2749938964844,
+                                        "y": 71.875
+                                      },
+                                      "children": [
+                                        {
+                                          "name": "Definition Term",
+                                          "type": "FRAME",
+                                          "size": {
+                                            "x": 235.47500610351562,
+                                            "y": 15
+                                          },
+                                          "children": [
+                                            {
+                                              "name": "Energy logic",
+                                              "type": "TEXT",
+                                              "text": "Energy logic",
+                                              "font": "IBM Plex Sans Regular",
+                                              "fontSize": 9.600000381469727,
+                                              "fill": {
+                                                "r": 85,
+                                                "g": 97,
+                                                "b": 91,
+                                                "a": 1
+                                              },
+                                              "size": {
+                                                "x": 67,
+                                                "y": 15
+                                              },
+                                              "children": []
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "Definition Description",
+                                          "type": "FRAME",
+                                          "size": {
+                                            "x": 235.47499084472656,
+                                            "y": 25.399999618530273
+                                          },
+                                          "children": [
+                                            {
+                                              "name": "Panel density × regional solar factor",
+                                              "type": "TEXT",
+                                              "text": "Panel density × regional solar factor",
+                                              "font": "IBM Plex Sans SemiBold",
+                                              "fontSize": 12,
+                                              "fill": {
+                                                "r": 22,
+                                                "g": 33,
+                                                "b": 28,
+                                                "a": 1
+                                              },
+                                              "size": {
+                                                "x": 200,
+                                                "y": 19
+                                              },
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Section",
+              "type": "FRAME",
+              "fill": {
+                "r": 27,
+                "g": 67,
+                "b": 50,
+                "a": 1
+              },
+              "size": {
+                "x": 1166.4000244140625,
+                "y": 353.82501220703125
+              },
+              "children": [
+                {
+                  "name": "CaseStudyPage",
+                  "type": "FRAME",
+                  "size": {
+                    "x": 1166.4000244140625,
+                    "y": 248.8509979248047
+                  },
+                  "children": [
+                    {
+                      "name": "Container",
+                      "type": "FRAME",
+                      "size": {
+                        "x": 630.6875,
+                        "y": 143.875
+                      },
+                      "children": [
+                        {
+                          "name": "Eyebrow",
+                          "type": "FRAME",
+                          "size": {
+                            "x": 630.6875,
+                            "y": 18.600000381469727
+                          },
+                          "children": [
+                            {
+                              "name": "Text",
+                              "type": "FRAME",
+                              "fill": {
+                                "r": 246,
+                                "g": 241,
+                                "b": 228,
+                                "a": 1
+                              },
+                              "size": {
+                                "x": 28,
+                                "y": 2.237499952316284
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Bring your scenario",
+                              "type": "TEXT",
+                              "text": "Bring your scenario",
+                              "font": "IBM Plex Sans SemiBold",
+                              "fontSize": 12,
+                              "fill": {
+                                "r": 246,
+                                "g": 241,
+                                "b": 228,
+                                "a": 1
+                              },
+                              "size": {
+                                "x": 167,
+                                "y": 19
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Heading:margin",
+                          "type": "FRAME",
+                          "size": {
+                            "x": 630.6875,
+                            "y": 125.4000015258789
+                          },
+                          "children": [
+                            {
+                              "name": "Heading",
+                              "type": "FRAME",
+                              "size": {
+                                "x": 630.6875,
+                                "y": 103
+                              },
+                              "children": [
+                                {
+                                  "name": "Make the next question answerable.",
+                                  "type": "TEXT",
+                                  "text": "Make the next question answerable.",
+                                  "font": "Fraunces Bold",
+                                  "fontSize": 52.487998962402344,
+                                  "fill": {
+                                    "r": 245,
+                                    "g": 166,
+                                    "b": 35,
+                                    "a": 1
+                                  },
+                                  "size": {
+                                    "x": 631,
+                                    "y": 103
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Container",
+                      "type": "FRAME",
+                      "size": {
+                        "x": 378.4125061035156,
+                        "y": 142.1999969482422
+                      },
+                      "children": [
+                        {
+                          "name": "Paragraph",
+                          "type": "FRAME",
+                          "size": {
+                            "x": 378.4125061035156,
+                            "y": 80
+                          },
+                          "children": [
+                            {
+                              "name": "Walk through the model with the people who need to",
+                              "type": "TEXT",
+                              "text": "Walk through the model with the people who need to trust the result.",
+                              "font": "IBM Plex Sans Regular",
+                              "fontSize": 18,
+                              "fill": {
+                                "r": 0,
+                                "g": 0,
+                                "b": 0,
+                                "a": 1
+                              },
+                              "size": {
+                                "x": 379,
+                                "y": 56
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Container",
+                          "type": "FRAME",
+                          "size": {
+                            "x": 378.4125061035156,
+                            "y": 62.39999771118164
+                          },
+                          "children": [
+                            {
+                              "name": "ButtonLink",
+                              "type": "FRAME",
+                              "fill": {
+                                "r": 246,
+                                "g": 241,
+                                "b": 228,
+                                "a": 1
+                              },
+                              "stroke": {
+                                "r": 246,
+                                "g": 241,
+                                "b": 228
+                              },
+                              "size": {
+                                "x": 260,
+                                "y": 62.400001525878906
+                              },
+                              "children": [
+                                {
+                                  "name": "Text",
+                                  "type": "FRAME",
+                                  "size": {
+                                    "x": 160,
+                                    "y": 23
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "Book a live walkthrough",
+                                      "type": "TEXT",
+                                      "text": "Book a live walkthrough",
+                                      "font": "IBM Plex Sans SemiBold",
+                                      "fontSize": 14.399999618530273,
+                                      "fill": {
+                                        "r": 22,
+                                        "g": 33,
+                                        "b": 28,
+                                        "a": 1
+                                      },
+                                      "size": {
+                                        "x": 160,
+                                        "y": 23
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Text",
+                                  "type": "FRAME",
+                                  "fill": {
+                                    "r": 245,
+                                    "g": 166,
+                                    "b": 35,
+                                    "a": 1
+                                  },
+                                  "size": {
+                                    "x": 32,
+                                    "y": 32
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "↗",
+                                      "type": "TEXT",
+                                      "text": "↗",
+                                      "font": "IBM Plex Sans SemiBold",
+                                      "fontSize": 14.399999618530273,
+                                      "fill": {
+                                        "r": 22,
+                                        "g": 33,
+                                        "b": 28,
+                                        "a": 1
+                                      },
+                                      "size": {
+                                        "x": 13,
+                                        "y": 23
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Footer",
+          "type": "FRAME",
+          "fill": {
+            "r": 22,
+            "g": 33,
+            "b": 28,
+            "a": 1
+          },
+          "size": {
+            "x": 1166.4000244140625,
+            "y": 311.2498474121094
+          },
+          "children": [
+            {
+              "name": "Container",
+              "type": "FRAME",
+              "size": {
+                "x": 1166.4000244140625,
+                "y": 101.099853515625
+              },
+              "children": [
+                {
+                  "name": "Container",
+                  "type": "FRAME",
+                  "size": {
+                    "x": 231.8125,
+                    "y": 101.099853515625
+                  },
+                  "children": [
+                    {
+                      "name": "Paragraph",
+                      "type": "FRAME",
+                      "size": {
+                        "x": 231.8125,
+                        "y": 54.79999923706055
+                      },
+                      "children": [
+                        {
+                          "name": "Two yields. One proof.",
+                          "type": "TEXT",
+                          "text": "Two yields. One proof.",
+                          "font": "Fraunces Regular",
+                          "fontSize": 21.600000381469727,
+                          "fill": {
+                            "r": 245,
+                            "g": 166,
+                            "b": 35,
+                            "a": 1
+                          },
+                          "size": {
+                            "x": 225,
+                            "y": 34
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Container",
+                      "type": "FRAME",
+                      "size": {
+                        "x": 231.8125,
+                        "y": 46.29985427856445
+                      },
+                      "children": [
+                        {
+                          "name": "Link",
+                          "type": "FRAME",
+                          "size": {
+                            "x": 183.1999969482422,
+                            "y": 38.400001525878906
+                          },
+                          "children": [
+                            {
+                              "name": "BrandMark",
+                              "type": "FRAME",
+                              "size": {
+                                "x": 38.400001525878906,
+                                "y": 38.400001525878906
+                              },
+                              "children": [
+                                {
+                                  "name": "Vector",
+                                  "type": "VECTOR",
+                                  "fill": {
+                                    "r": 245,
+                                    "g": 166,
+                                    "b": 35,
+                                    "a": 1
+                                  },
+                                  "stroke": {
+                                    "r": 246,
+                                    "g": 241,
+                                    "b": 228
+                                  },
+                                  "size": {
+                                    "x": 11.199999809265137,
+                                    "y": 11.199999809265137
+                                  },
+                                  "children": []
+                                },
+                                {
+                                  "name": "Vector",
+                                  "type": "VECTOR",
+                                  "stroke": {
+                                    "r": 246,
+                                    "g": 241,
+                                    "b": 228
+                                  },
+                                  "size": {
+                                    "x": 32,
+                                    "y": 4.800000190734863
+                                  },
+                                  "children": []
+                                },
+                                {
+                                  "name": "Vector",
+                                  "type": "VECTOR",
+                                  "stroke": {
+                                    "r": 246,
+                                    "g": 241,
+                                    "b": 228
+                                  },
+                                  "size": {
+                                    "x": 24.80000114440918,
+                                    "y": 10.40000057220459
+                                  },
+                                  "children": []
+                                },
+                                {
+                                  "name": "Vector",
+                                  "type": "VECTOR",
+                                  "stroke": {
+                                    "r": 246,
+                                    "g": 241,
+                                    "b": 228
+                                  },
+                                  "size": {
+                                    "x": 21.600000381469727,
+                                    "y": 8
+                                  },
+                                  "children": []
+                                },
+                                {
+                                  "name": "Vector",
+                                  "type": "VECTOR",
+                                  "stroke": {
+                                    "r": 246,
+                                    "g": 241,
+                                    "b": 228
+                                  },
+                                  "size": {
+                                    "x": 7.200000286102295,
+                                    "y": 7.200000286102295
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "name": "BrandMark",
+                              "type": "FRAME",
+                              "size": {
+                                "x": 132,
+                                "y": 35
+                              },
+                              "children": [
+                                {
+                                  "name": "Solara Fields",
+                                  "type": "TEXT",
+                                  "text": "Solara Fields",
+                                  "font": "Fraunces Bold",
+                                  "fontSize": 22.079999923706055,
+                                  "fill": {
+                                    "r": 246,
+                                    "g": 241,
+                                    "b": 228,
+                                    "a": 1
+                                  },
+                                  "size": {
+                                    "x": 132,
+                                    "y": 35
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Container",
+                  "type": "FRAME",
+                  "size": {
+                    "x": 236.8000030517578,
+                    "y": 54.95000076293945
+                  },
+                  "children": [
+                    {
+                      "name": "Link",
+                      "type": "FRAME",
+                      "size": {
+                        "x": 112,
+                        "y": 21.075000762939453
+                      },
+                      "children": [
+                        {
+                          "name": "Product",
+                          "type": "TEXT",
+                          "text": "Product",
+                          "font": "IBM Plex Sans Regular",
+                          "fontSize": 13.600000381469727,
+                          "fill": {
+                            "r": 246,
+                            "g": 241,
+                            "b": 228,
+                            "a": 1
+                          },
+                          "size": {
+                            "x": 48,
+                            "y": 22
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Link",
+                      "type": "FRAME",
+                      "size": {
+                        "x": 112,
+                        "y": 21.075000762939453
+                      },
+                      "children": [
+                        {
+                          "name": "Case study",
+                          "type": "TEXT",
+                          "text": "Case study",
+                          "font": "IBM Plex Sans Regular",
+                          "fontSize": 13.600000381469727,
+                          "fill": {
+                            "r": 246,
+                            "g": 241,
+                            "b": 228,
+                            "a": 1
+                          },
+                          "size": {
+                            "x": 67,
+                            "y": 22
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Link",
+                      "type": "FRAME",
+                      "size": {
+                        "x": 112,
+                        "y": 21.075000762939453
+                      },
+                      "children": [
+                        {
+                          "name": "About",
+                          "type": "TEXT",
+                          "text": "About",
+                          "font": "IBM Plex Sans Regular",
+                          "fontSize": 13.600000381469727,
+                          "fill": {
+                            "r": 246,
+                            "g": 241,
+                            "b": 228,
+                            "a": 1
+                          },
+                          "size": {
+                            "x": 37,
+                            "y": 22
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Link",
+                      "type": "FRAME",
+                      "size": {
+                        "x": 112,
+                        "y": 21.075000762939453
+                      },
+                      "children": [
+                        {
+                          "name": "Contact",
+                          "type": "TEXT",
+                          "text": "Contact",
+                          "font": "IBM Plex Sans Regular",
+                          "fontSize": 13.600000381469727,
+                          "fill": {
+                            "r": 246,
+                            "g": 241,
+                            "b": 228,
+                            "a": 1
+                          },
+                          "size": {
+                            "x": 48,
+                            "y": 22
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Container:margin",
+              "type": "FRAME",
+              "size": {
+                "x": 1166.4000244140625,
+                "y": 106.1500015258789
+              },
+              "children": [
+                {
+                  "name": "Container",
+                  "type": "FRAME",
+                  "size": {
+                    "x": 1166.4000244140625,
+                    "y": 42.150001525878906
+                  },
+                  "children": [
+                    {
+                      "name": "Paragraph",
+                      "type": "FRAME",
+                      "size": {
+                        "x": 481,
+                        "y": 18.150001525878906
+                      },
+                      "children": [
+                        {
+                          "name": "Demonstration outputs are illustrative modeled est",
+                          "type": "TEXT",
+                          "text": "Demonstration outputs are illustrative modeled estimates, not engineering or agronomic advice.",
+                          "font": "IBM Plex Sans Regular",
+                          "fontSize": 11.199999809265137,
+                          "fill": {
+                            "r": 246,
+                            "g": 241,
+                            "b": 228,
+                            "a": 1
+                          },
+                          "size": {
+                            "x": 481,
+                            "y": 18
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Paragraph",
+                      "type": "FRAME",
+                      "size": {
+                        "x": 106,
+                        "y": 18.150001525878906
+                      },
+                      "children": [
+                        {
+                          "name": "© 2026 Solara Fields",
+                          "type": "TEXT",
+                          "text": "© 2026 Solara Fields",
+                          "font": "IBM Plex Sans Regular",
+                          "fontSize": 11.199999809265137,
+                          "fill": {
+                            "r": 246,
+                            "g": 241,
+                            "b": 228,
+                            "a": 1
+                          },
+                          "size": {
+                            "x": 106,
+                            "y": 18
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

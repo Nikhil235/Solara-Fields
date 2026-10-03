@@ -1,0 +1,1508 @@
+{
+  "home": [
+    {
+      "name": "Solara Fields",
+      "text": "Solara Fields",
+      "font": "Fraunces Bold",
+      "size": 22.079999923706055
+    },
+    {
+      "name": "Product",
+      "text": "Product",
+      "font": "IBM Plex Sans Medium",
+      "size": 13.119999885559082
+    },
+    {
+      "name": "Case study",
+      "text": "Case study",
+      "font": "IBM Plex Sans Medium",
+      "size": 13.119999885559082
+    },
+    {
+      "name": "About",
+      "text": "About",
+      "font": "IBM Plex Sans Medium",
+      "size": 13.119999885559082
+    },
+    {
+      "name": "Book a walkthrough",
+      "text": "Book a walkthrough",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 12.479999542236328
+    },
+    {
+      "name": "↗",
+      "text": "↗",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 12.479999542236328
+    },
+    {
+      "name": "Live agrivoltaic modeling",
+      "text": "Live agrivoltaic modeling",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 12
+    },
+    {
+      "name": "Prove the acre, not the pitch.",
+      "text": "Prove the acre,\nnot the pitch.",
+      "font": "Fraunces Bold",
+      "size": 81.64800262451172
+    },
+    {
+      "name": "Solara Fields turns your agrivoltaic pitch into a ",
+      "text": "Solara Fields turns your agrivoltaic pitch into a live model. Crop yield, water savings, and energy output—adjustable in front of the person who has to say yes.",
+      "font": "IBM Plex Sans Regular",
+      "size": 17.496000289916992
+    },
+    {
+      "name": "See it live",
+      "text": "See it live",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 14.399999618530273
+    },
+    {
+      "name": "↗",
+      "text": "↗",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 14.399999618530273
+    },
+    {
+      "name": "Built to move at meeting speed.",
+      "text": "Built to move at meeting speed.",
+      "font": "IBM Plex Sans Regular",
+      "size": 12
+    },
+    {
+      "name": "Scenario 01",
+      "text": "Scenario 01",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 10.399999618530273
+    },
+    {
+      "name": "Live",
+      "text": "Live",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 10.880000114440918
+    },
+    {
+      "name": "24 ft row spacing · 120 acres",
+      "text": "24 ft row spacing · 120 acres",
+      "font": "IBM Plex Sans Regular",
+      "size": 9.600000381469727
+    },
+    {
+      "name": "Crop yield",
+      "text": "Crop yield",
+      "font": "IBM Plex Sans Regular",
+      "size": 9.600000381469727
+    },
+    {
+      "name": "103.1%",
+      "text": "103.1%",
+      "font": "IBM Plex Sans Bold",
+      "size": 27.993600845336914
+    },
+    {
+      "name": "Energy",
+      "text": "Energy",
+      "font": "IBM Plex Sans Regular",
+      "size": 9.600000381469727
+    },
+    {
+      "name": "18,637",
+      "text": "18,637",
+      "font": "IBM Plex Sans Bold",
+      "size": 27.993600845336914
+    },
+    {
+      "name": "MWh / year",
+      "text": "MWh / year",
+      "font": "IBM Plex Sans Regular",
+      "size": 9.600000381469727
+    },
+    {
+      "name": "Solar resource",
+      "text": "Solar resource",
+      "font": "IBM Plex Sans Regular",
+      "size": 9.600000381469727
+    },
+    {
+      "name": "6.1 hrs/day",
+      "text": "6.1 hrs/day",
+      "font": "IBM Plex Sans Bold",
+      "size": 13.600000381469727
+    },
+    {
+      "name": "Crop baseline",
+      "text": "Crop baseline",
+      "font": "IBM Plex Sans Regular",
+      "size": 9.600000381469727
+    },
+    {
+      "name": "100%",
+      "text": "100%",
+      "font": "IBM Plex Sans Bold",
+      "size": 13.600000381469727
+    },
+    {
+      "name": "01 Crop yield",
+      "text": "01 Crop yield",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 10.399999618530273
+    },
+    {
+      "name": "02 Water savings",
+      "text": "02 Water savings",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 10.399999618530273
+    },
+    {
+      "name": "03 Energy output",
+      "text": "03 Energy output",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 10.399999618530273
+    },
+    {
+      "name": "All on the same acre.",
+      "text": "All on the same acre.",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 10.399999618530273
+    },
+    {
+      "name": "The pitch problem",
+      "text": "The pitch problem",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 12
+    },
+    {
+      "name": "The numbers are real. The land is not theirs.",
+      "text": "The numbers are real.\nThe land is not theirs.",
+      "font": "Fraunces Bold",
+      "size": 52.487998962402344
+    },
+    {
+      "name": "Every agrivoltaic pitch hits the same wall: the pr",
+      "text": "Every agrivoltaic pitch hits the same wall: the proof comes from somebody else’s plot, somebody else’s climate. A stakeholder asks what happens on their land. The meeting ends with a promised spreadsheet.",
+      "font": "IBM Plex Sans Regular",
+      "size": 18
+    },
+    {
+      "name": "STATIC_DECK_FINAL_V7.pdf",
+      "text": "STATIC_DECK_FINAL_V7.pdf",
+      "font": "IBM Plex Sans Regular",
+      "size": 10.399999618530273
+    },
+    {
+      "name": "34 slides",
+      "text": "34 slides",
+      "font": "IBM Plex Sans Regular",
+      "size": 10.399999618530273
+    },
+    {
+      "name": "Industry benchmark",
+      "text": "Industry benchmark",
+      "font": "IBM Plex Sans Regular",
+      "size": 11.520000457763672
+    },
+    {
+      "name": "“Up to 40%”",
+      "text": "“Up to 40%”",
+      "font": "Fraunces Bold",
+      "size": 58.31999969482422
+    },
+    {
+      "name": "Source: a different crop, region, and layout.",
+      "text": "Source: a different crop, region, and layout.",
+      "font": "IBM Plex Sans Regular",
+      "size": 11.520000457763672
+    },
+    {
+      "name": "Stakeholder question",
+      "text": "Stakeholder question",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 10.880000114440918
+    },
+    {
+      "name": "“What does that mean for my 120 acres?”",
+      "text": "“What does that mean for my 120 acres?”",
+      "font": "Fraunces Regular",
+      "size": 34.992000579833984
+    },
+    {
+      "name": "No answer in the room.",
+      "text": "No answer in the room.",
+      "font": "IBM Plex Sans Medium",
+      "size": 12
+    },
+    {
+      "name": "→",
+      "text": "→",
+      "font": "IBM Plex Sans Regular",
+      "size": 32
+    },
+    {
+      "name": "The live model",
+      "text": "The live model",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 12
+    },
+    {
+      "name": "Change the inputs. Keep the proof on screen.",
+      "text": "Change the inputs.\nKeep the proof on screen.",
+      "font": "Fraunces Bold",
+      "size": 52.487998962402344
+    },
+    {
+      "name": "Put in the plot. Change the crop. Move the rows. C",
+      "text": "Put in the plot. Change the crop. Move the rows. Crop, water, and energy outputs respond together.",
+      "font": "IBM Plex Sans Regular",
+      "size": 18
+    },
+    {
+      "name": "Live model",
+      "text": "Live model",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 10.399999618530273
+    },
+    {
+      "name": "Illustrative modeled estimate",
+      "text": "Illustrative modeled estimate",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 10.399999618530273
+    },
+    {
+      "name": "Project inputs",
+      "text": "Project inputs",
+      "font": "IBM Plex Sans Regular",
+      "size": 10.880000114440918
+    },
+    {
+      "name": "Scenario 01",
+      "text": "Scenario 01",
+      "font": "IBM Plex Sans Bold",
+      "size": 10.880000114440918
+    },
+    {
+      "name": "Plot size",
+      "text": "Plot size",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 11.520000457763672
+    },
+    {
+      "name": "120 acres",
+      "text": "120 acres",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 12
+    },
+    {
+      "name": "20",
+      "text": "20",
+      "font": "IBM Plex Sans Regular",
+      "size": 9.279999732971191
+    },
+    {
+      "name": "500",
+      "text": "500",
+      "font": "IBM Plex Sans Regular",
+      "size": 9.279999732971191
+    },
+    {
+      "name": "Region",
+      "text": "Region",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 11.520000457763672
+    },
+    {
+      "name": "Central Valley, CA",
+      "text": "Central Valley, CA",
+      "font": "IBM Plex Sans Regular",
+      "size": 13.119999885559082
+    },
+    {
+      "name": "Crop",
+      "text": "Crop",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 11.520000457763672
+    },
+    {
+      "name": "Processing tomato",
+      "text": "Processing tomato",
+      "font": "IBM Plex Sans Regular",
+      "size": 13.119999885559082
+    },
+    {
+      "name": "Panel clearance",
+      "text": "Panel clearance",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 11.520000457763672
+    },
+    {
+      "name": "10 ft",
+      "text": "10 ft",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 12
+    },
+    {
+      "name": "8",
+      "text": "8",
+      "font": "IBM Plex Sans Regular",
+      "size": 9.279999732971191
+    },
+    {
+      "name": "14",
+      "text": "14",
+      "font": "IBM Plex Sans Regular",
+      "size": 9.279999732971191
+    },
+    {
+      "name": "Row spacing",
+      "text": "Row spacing",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 11.520000457763672
+    },
+    {
+      "name": "24 ft",
+      "text": "24 ft",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 12
+    },
+    {
+      "name": "16",
+      "text": "16",
+      "font": "IBM Plex Sans Regular",
+      "size": 9.279999732971191
+    },
+    {
+      "name": "32",
+      "text": "32",
+      "font": "IBM Plex Sans Regular",
+      "size": 9.279999732971191
+    },
+    {
+      "name": "Modeled output",
+      "text": "Modeled output",
+      "font": "IBM Plex Sans Regular",
+      "size": 10.880000114440918
+    },
+    {
+      "name": "120 acres",
+      "text": "120 acres",
+      "font": "IBM Plex Sans Bold",
+      "size": 10.880000114440918
+    },
+    {
+      "name": "Crop yield",
+      "text": "Crop yield",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 10.880000114440918
+    },
+    {
+      "name": "103.0%",
+      "text": "103.0%",
+      "font": "IBM Plex Sans Bold",
+      "size": 46.65599822998047
+    },
+    {
+      "name": "Crop response at 22% shade",
+      "text": "Crop response at 22% shade",
+      "font": "IBM Plex Sans Regular",
+      "size": 10.399999618530273
+    },
+    {
+      "name": "Water saved",
+      "text": "Water saved",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 10.880000114440918
+    },
+    {
+      "name": "17%",
+      "text": "17%",
+      "font": "IBM Plex Sans Bold",
+      "size": 46.65599822998047
+    },
+    {
+      "name": "Driven by shade + Central Valley, CA",
+      "text": "Driven by shade + Central Valley, CA",
+      "font": "IBM Plex Sans Regular",
+      "size": 10.399999618530273
+    },
+    {
+      "name": "Annual energy",
+      "text": "Annual energy",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 10.880000114440918
+    },
+    {
+      "name": "17,868 MWh",
+      "text": "17,868 MWh",
+      "font": "IBM Plex Sans Bold",
+      "size": 46.65599822998047
+    },
+    {
+      "name": "79% panel-density factor",
+      "text": "79% panel-density factor",
+      "font": "IBM Plex Sans Regular",
+      "size": 10.399999618530273
+    },
+    {
+      "name": "Modeled shade",
+      "text": "Modeled shade",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 10.880000114440918
+    },
+    {
+      "name": "22%",
+      "text": "22%",
+      "font": "IBM Plex Sans Bold",
+      "size": 46.65599822998047
+    },
+    {
+      "name": "24 ft rows · 10 ft clearance",
+      "text": "24 ft rows · 10 ft clearance",
+      "font": "IBM Plex Sans Regular",
+      "size": 10.399999618530273
+    },
+    {
+      "name": "View model assumptions",
+      "text": "View model assumptions",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 11.520000457763672
+    },
+    {
+      "name": "+",
+      "text": "+",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 16
+    },
+    {
+      "name": "Demonstration coefficients show how the interface ",
+      "text": "Demonstration coefficients show how the interface responds. They are not engineering, agronomic, financial, or permitting advice.",
+      "font": "IBM Plex Sans Regular",
+      "size": 12
+    },
+    {
+      "name": "Region reference",
+      "text": "Region reference",
+      "font": "IBM Plex Sans Regular",
+      "size": 9.600000381469727
+    },
+    {
+      "name": "Central Valley, CA",
+      "text": "Central Valley, CA",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 12
+    },
+    {
+      "name": "Crop baseline",
+      "text": "Crop baseline",
+      "font": "IBM Plex Sans Regular",
+      "size": 9.600000381469727
+    },
+    {
+      "name": "50 tons / acre",
+      "text": "50 tons / acre",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 12
+    },
+    {
+      "name": "Irrigation context",
+      "text": "Irrigation context",
+      "font": "IBM Plex Sans Regular",
+      "size": 9.600000381469727
+    },
+    {
+      "name": "High summer demand",
+      "text": "High summer demand",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 12
+    },
+    {
+      "name": "Response logic",
+      "text": "Response logic",
+      "font": "IBM Plex Sans Regular",
+      "size": 9.600000381469727
+    },
+    {
+      "name": "Spacing → shade → crop + water",
+      "text": "Spacing → shade → crop + water",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 12
+    },
+    {
+      "name": "Every output points back to a mechanism.",
+      "text": "Every output points back to a mechanism.",
+      "font": "Fraunces Bold",
+      "size": 52.487998962402344
+    },
+    {
+      "name": "Shade changes crop response. Row spacing changes p",
+      "text": "Shade changes crop response. Row spacing changes panel density. Region changes solar resource and water stress. The model keeps that chain visible.",
+      "font": "IBM Plex Sans Regular",
+      "size": 17.600000381469727
+    },
+    {
+      "name": "Proof, not adjectives",
+      "text": "Proof, not adjectives",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 17.600000381469727
+    },
+    {
+      "name": "Read the illustrative case study",
+      "text": "Read the illustrative case study",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 14.399999618530273
+    },
+    {
+      "name": "↗",
+      "text": "↗",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 14.399999618530273
+    },
+    {
+      "name": "modeled crop yield retention",
+      "text": "modeled crop yield retention",
+      "font": "IBM Plex Sans Regular",
+      "size": 12.800000190734863
+    },
+    {
+      "name": "Current default scenario",
+      "text": "Current default scenario",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 12.800000190734863
+    },
+    {
+      "name": "103.1%",
+      "text": "103.1%",
+      "font": "IBM Plex Sans Bold",
+      "size": 104.97599792480469
+    },
+    {
+      "name": "24 ft rows",
+      "text": "24 ft rows",
+      "font": "IBM Plex Sans Regular",
+      "size": 11.199999809265137
+    },
+    {
+      "name": "22% shade",
+      "text": "22% shade",
+      "font": "IBM Plex Sans Regular",
+      "size": 11.199999809265137
+    },
+    {
+      "name": "Tomato",
+      "text": "Tomato",
+      "font": "IBM Plex Sans Regular",
+      "size": 11.199999809265137
+    },
+    {
+      "name": "Illustrative modeled estimate. Assumptions shown i",
+      "text": "Illustrative modeled estimate. Assumptions shown in the tool.",
+      "font": "IBM Plex Sans Regular",
+      "size": 9.920000076293945
+    },
+    {
+      "name": "How it works",
+      "text": "How it works",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 12
+    },
+    {
+      "name": "One conversation. Three moves.",
+      "text": "One conversation. Three moves.",
+      "font": "Fraunces Bold",
+      "size": 52.487998962402344
+    },
+    {
+      "name": "01",
+      "text": "01",
+      "font": "IBM Plex Sans Regular",
+      "size": 11.199999809265137
+    },
+    {
+      "name": "Input the plot",
+      "text": "Input the plot",
+      "font": "Fraunces Bold",
+      "size": 27.993600845336914
+    },
+    {
+      "name": "Set the acreage, region, and crop. Start with the ",
+      "text": "Set the acreage, region, and crop. Start with the land in the room, not an abstract case study.",
+      "font": "IBM Plex Sans Regular",
+      "size": 13.600000381469727
+    },
+    {
+      "name": "02",
+      "text": "02",
+      "font": "IBM Plex Sans Regular",
+      "size": 11.199999809265137
+    },
+    {
+      "name": "Adjust it live",
+      "text": "Adjust it live",
+      "font": "Fraunces Bold",
+      "size": 27.993600845336914
+    },
+    {
+      "name": "Move panel clearance and row spacing while stakeho",
+      "text": "Move panel clearance and row spacing while stakeholders watch the mechanisms respond.",
+      "font": "IBM Plex Sans Regular",
+      "size": 13.600000381469727
+    },
+    {
+      "name": "03",
+      "text": "03",
+      "font": "IBM Plex Sans Regular",
+      "size": 11.199999809265137
+    },
+    {
+      "name": "Show the numbers",
+      "text": "Show the numbers",
+      "font": "Fraunces Bold",
+      "size": 27.993600845336914
+    },
+    {
+      "name": "Put crop, water, shade, and energy outputs on one ",
+      "text": "Put crop, water, shade, and energy outputs on one screen. Keep every trade-off visible.",
+      "font": "IBM Plex Sans Regular",
+      "size": 13.600000381469727
+    },
+    {
+      "name": "Bring your acreage",
+      "text": "Bring your acreage",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 12
+    },
+    {
+      "name": "Stop explaining. Show it live.",
+      "text": "Stop explaining.\nShow it live.",
+      "font": "Fraunces Bold",
+      "size": 52.487998962402344
+    },
+    {
+      "name": "Put Solara Fields in front of the person who signs",
+      "text": "Put Solara Fields in front of the person who signs off. We’ll model a scenario together.",
+      "font": "IBM Plex Sans Regular",
+      "size": 18
+    },
+    {
+      "name": "Book a live walkthrough",
+      "text": "Book a live walkthrough",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 14.399999618530273
+    },
+    {
+      "name": "↗",
+      "text": "↗",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 14.399999618530273
+    },
+    {
+      "name": "Two yields. One proof.",
+      "text": "Two yields. One proof.",
+      "font": "Fraunces Regular",
+      "size": 21.600000381469727
+    },
+    {
+      "name": "Solara Fields",
+      "text": "Solara Fields",
+      "font": "Fraunces Bold",
+      "size": 22.079999923706055
+    },
+    {
+      "name": "Product",
+      "text": "Product",
+      "font": "IBM Plex Sans Regular",
+      "size": 13.600000381469727
+    },
+    {
+      "name": "Case study",
+      "text": "Case study",
+      "font": "IBM Plex Sans Regular",
+      "size": 13.600000381469727
+    },
+    {
+      "name": "About",
+      "text": "About",
+      "font": "IBM Plex Sans Regular",
+      "size": 13.600000381469727
+    },
+    {
+      "name": "Contact",
+      "text": "Contact",
+      "font": "IBM Plex Sans Regular",
+      "size": 13.600000381469727
+    },
+    {
+      "name": "Demonstration outputs are illustrative modeled est",
+      "text": "Demonstration outputs are illustrative modeled estimates, not engineering or agronomic advice.",
+      "font": "IBM Plex Sans Regular",
+      "size": 11.199999809265137
+    },
+    {
+      "name": "© 2026 Solara Fields",
+      "text": "© 2026 Solara Fields",
+      "font": "IBM Plex Sans Regular",
+      "size": 11.199999809265137
+    }
+  ],
+  "caseStudy": [
+    {
+      "name": "Solara Fields",
+      "text": "Solara Fields",
+      "font": "Fraunces Bold",
+      "size": 22.079999923706055
+    },
+    {
+      "name": "Product",
+      "text": "Product",
+      "font": "IBM Plex Sans Medium",
+      "size": 13.119999885559082
+    },
+    {
+      "name": "Case study",
+      "text": "Case study",
+      "font": "IBM Plex Sans Medium",
+      "size": 13.119999885559082
+    },
+    {
+      "name": "About",
+      "text": "About",
+      "font": "IBM Plex Sans Medium",
+      "size": 13.119999885559082
+    },
+    {
+      "name": "Book a walkthrough",
+      "text": "Book a walkthrough",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 12.479999542236328
+    },
+    {
+      "name": "↗",
+      "text": "↗",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 12.479999542236328
+    },
+    {
+      "name": "Modeled scenario",
+      "text": "Modeled scenario",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 10.880000114440918
+    },
+    {
+      "name": "Illustrative case study · Central Valley, CA",
+      "text": "Illustrative case study · Central Valley, CA",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 12
+    },
+    {
+      "name": "120 acres. One live decision.",
+      "text": "120 acres.\nOne live decision.",
+      "font": "Fraunces Bold",
+      "size": 81.64800262451172
+    },
+    {
+      "name": "A project team needs to show how processing tomato",
+      "text": "A project team needs to show how processing tomatoes and solar generation could share one Central Valley plot. The room wants specifics.",
+      "font": "IBM Plex Sans Regular",
+      "size": 18.399999618530273
+    },
+    {
+      "name": "Crop",
+      "text": "Crop",
+      "font": "IBM Plex Sans Regular",
+      "size": 9.600000381469727
+    },
+    {
+      "name": "Processing tomato",
+      "text": "Processing tomato",
+      "font": "IBM Plex Sans Bold",
+      "size": 13.600000381469727
+    },
+    {
+      "name": "Layout",
+      "text": "Layout",
+      "font": "IBM Plex Sans Regular",
+      "size": 9.600000381469727
+    },
+    {
+      "name": "24 ft rows",
+      "text": "24 ft rows",
+      "font": "IBM Plex Sans Bold",
+      "size": 13.600000381469727
+    },
+    {
+      "name": "Clearance",
+      "text": "Clearance",
+      "font": "IBM Plex Sans Regular",
+      "size": 9.600000381469727
+    },
+    {
+      "name": "10 ft",
+      "text": "10 ft",
+      "font": "IBM Plex Sans Bold",
+      "size": 13.600000381469727
+    },
+    {
+      "name": "Evidence",
+      "text": "Evidence",
+      "font": "IBM Plex Sans Regular",
+      "size": 9.600000381469727
+    },
+    {
+      "name": "Illustrative model",
+      "text": "Illustrative model",
+      "font": "IBM Plex Sans Bold",
+      "size": 13.600000381469727
+    },
+    {
+      "name": "01",
+      "text": "01",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 11.199999809265137
+    },
+    {
+      "name": "The pitch problem",
+      "text": "The pitch problem",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 12
+    },
+    {
+      "name": "A benchmark could not answer a site question.",
+      "text": "A benchmark could not answer a site question.",
+      "font": "Fraunces Bold",
+      "size": 52.487998962402344
+    },
+    {
+      "name": "The deck showed category-level water and yield cla",
+      "text": "The deck showed category-level water and yield claims. The landowner asked what happened when row spacing widened for farm equipment.",
+      "font": "Fraunces SemiBold",
+      "size": 29.15999984741211
+    },
+    {
+      "name": "That question changes shade, panel density, crop r",
+      "text": "That question changes shade, panel density, crop response, and energy at once. A static slide could only promise a follow-up.",
+      "font": "IBM Plex Sans Regular",
+      "size": 13.600000381469727
+    },
+    {
+      "name": "02",
+      "text": "02",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 11.199999809265137
+    },
+    {
+      "name": "The live model",
+      "text": "The live model",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 12
+    },
+    {
+      "name": "Put the trade-off where everyone can see it.",
+      "text": "Put the trade-off where everyone can see it.",
+      "font": "Fraunces Bold",
+      "size": 52.487998962402344
+    },
+    {
+      "name": "The team sets the plot, crop, clearance, and spaci",
+      "text": "The team sets the plot, crop, clearance, and spacing. Four outputs move from the same inputs.",
+      "font": "IBM Plex Sans Regular",
+      "size": 18
+    },
+    {
+      "name": "Inputs",
+      "text": "Inputs",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 10.399999618530273
+    },
+    {
+      "name": "24",
+      "text": "24",
+      "font": "IBM Plex Sans Bold",
+      "size": 23.200000762939453
+    },
+    {
+      "name": "ft rows",
+      "text": "ft rows",
+      "font": "IBM Plex Sans Regular",
+      "size": 9.920000076293945
+    },
+    {
+      "name": "10",
+      "text": "10",
+      "font": "IBM Plex Sans Bold",
+      "size": 23.200000762939453
+    },
+    {
+      "name": "ft clearance",
+      "text": "ft clearance",
+      "font": "IBM Plex Sans Regular",
+      "size": 9.920000076293945
+    },
+    {
+      "name": "120",
+      "text": "120",
+      "font": "IBM Plex Sans Bold",
+      "size": 23.200000762939453
+    },
+    {
+      "name": "acres",
+      "text": "acres",
+      "font": "IBM Plex Sans Regular",
+      "size": 9.920000076293945
+    },
+    {
+      "name": "→",
+      "text": "→",
+      "font": "IBM Plex Sans Bold",
+      "size": 20.799999237060547
+    },
+    {
+      "name": "22% shade",
+      "text": "22% shade",
+      "font": "IBM Plex Sans Bold",
+      "size": 20.799999237060547
+    },
+    {
+      "name": "Mechanism",
+      "text": "Mechanism",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 10.399999618530273
+    },
+    {
+      "name": "→",
+      "text": "→",
+      "font": "IBM Plex Sans Bold",
+      "size": 20.799999237060547
+    },
+    {
+      "name": "103.0%",
+      "text": "103.0%",
+      "font": "IBM Plex Sans Bold",
+      "size": 23.200000762939453
+    },
+    {
+      "name": "crop yield",
+      "text": "crop yield",
+      "font": "IBM Plex Sans Regular",
+      "size": 9.920000076293945
+    },
+    {
+      "name": "17%",
+      "text": "17%",
+      "font": "IBM Plex Sans Bold",
+      "size": 23.200000762939453
+    },
+    {
+      "name": "water saved",
+      "text": "water saved",
+      "font": "IBM Plex Sans Regular",
+      "size": 9.920000076293945
+    },
+    {
+      "name": "17,868",
+      "text": "17,868",
+      "font": "IBM Plex Sans Bold",
+      "size": 23.200000762939453
+    },
+    {
+      "name": "MWh / year",
+      "text": "MWh / year",
+      "font": "IBM Plex Sans Regular",
+      "size": 9.920000076293945
+    },
+    {
+      "name": "Outputs",
+      "text": "Outputs",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 10.399999618530273
+    },
+    {
+      "name": "Illustrative modeled estimate. Values use demonstr",
+      "text": "Illustrative modeled estimate. Values use demonstration coefficients, not measured field performance.",
+      "font": "IBM Plex Sans Regular",
+      "size": 10.880000114440918
+    },
+    {
+      "name": "03",
+      "text": "03",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 11.199999809265137
+    },
+    {
+      "name": "The outcome",
+      "text": "The outcome",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 12
+    },
+    {
+      "name": "The room can debate the same model.",
+      "text": "The room can debate the same model.",
+      "font": "Fraunces Bold",
+      "size": 52.487998962402344
+    },
+    {
+      "name": "The modeled result is not the final answer. It is ",
+      "text": "The modeled result is not the final answer. It is a shared, inspectable starting point for the decision.",
+      "font": "IBM Plex Sans Regular",
+      "size": 18
+    },
+    {
+      "name": "“Studies show...”",
+      "text": "“Studies show...”",
+      "font": "Fraunces Bold",
+      "size": 46.65599822998047
+    },
+    {
+      "name": "A detached claim with no visible path back to this",
+      "text": "A detached claim with no visible path back to this plot.",
+      "font": "IBM Plex Sans Regular",
+      "size": 12.800000190734863
+    },
+    {
+      "name": "Instead of",
+      "text": "Instead of",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 10.399999618530273
+    },
+    {
+      "name": "“Move the rows.”",
+      "text": "“Move the rows.”",
+      "font": "Fraunces Bold",
+      "size": 46.65599822998047
+    },
+    {
+      "name": "The stakeholder changes the premise and sees every",
+      "text": "The stakeholder changes the premise and sees every result.",
+      "font": "IBM Plex Sans Regular",
+      "size": 12.800000190734863
+    },
+    {
+      "name": "In the room",
+      "text": "In the room",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 10.399999618530273
+    },
+    {
+      "name": "Scenario assumptions",
+      "text": "Scenario assumptions",
+      "font": "IBM Plex Sans Bold",
+      "size": 11.199999809265137
+    },
+    {
+      "name": "Illustrative modeled estimate",
+      "text": "Illustrative modeled estimate",
+      "font": "IBM Plex Sans Regular",
+      "size": 11.199999809265137
+    },
+    {
+      "name": "A real project requires site survey, weather, crop",
+      "text": "A real project requires site survey, weather, crop, equipment, engineering, interconnection, and financial data.",
+      "font": "IBM Plex Sans Regular",
+      "size": 11.199999809265137
+    },
+    {
+      "name": "Region profile",
+      "text": "Region profile",
+      "font": "IBM Plex Sans Regular",
+      "size": 9.600000381469727
+    },
+    {
+      "name": "Central Valley, CA",
+      "text": "Central Valley, CA",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 12
+    },
+    {
+      "name": "Crop reference",
+      "text": "Crop reference",
+      "font": "IBM Plex Sans Regular",
+      "size": 9.600000381469727
+    },
+    {
+      "name": "50 tons / acre",
+      "text": "50 tons / acre",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 12
+    },
+    {
+      "name": "Shade logic",
+      "text": "Shade logic",
+      "font": "IBM Plex Sans Regular",
+      "size": 9.600000381469727
+    },
+    {
+      "name": "Row spacing + panel clearance",
+      "text": "Row spacing + panel clearance",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 12
+    },
+    {
+      "name": "Energy logic",
+      "text": "Energy logic",
+      "font": "IBM Plex Sans Regular",
+      "size": 9.600000381469727
+    },
+    {
+      "name": "Panel density × regional solar factor",
+      "text": "Panel density × regional solar factor",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 12
+    },
+    {
+      "name": "Bring your scenario",
+      "text": "Bring your scenario",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 12
+    },
+    {
+      "name": "Make the next question answerable.",
+      "text": "Make the next question answerable.",
+      "font": "Fraunces Bold",
+      "size": 52.487998962402344
+    },
+    {
+      "name": "Walk through the model with the people who need to",
+      "text": "Walk through the model with the people who need to trust the result.",
+      "font": "IBM Plex Sans Regular",
+      "size": 18
+    },
+    {
+      "name": "Book a live walkthrough",
+      "text": "Book a live walkthrough",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 14.399999618530273
+    },
+    {
+      "name": "↗",
+      "text": "↗",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 14.399999618530273
+    },
+    {
+      "name": "Two yields. One proof.",
+      "text": "Two yields. One proof.",
+      "font": "Fraunces Regular",
+      "size": 21.600000381469727
+    },
+    {
+      "name": "Solara Fields",
+      "text": "Solara Fields",
+      "font": "Fraunces Bold",
+      "size": 22.079999923706055
+    },
+    {
+      "name": "Product",
+      "text": "Product",
+      "font": "IBM Plex Sans Regular",
+      "size": 13.600000381469727
+    },
+    {
+      "name": "Case study",
+      "text": "Case study",
+      "font": "IBM Plex Sans Regular",
+      "size": 13.600000381469727
+    },
+    {
+      "name": "About",
+      "text": "About",
+      "font": "IBM Plex Sans Regular",
+      "size": 13.600000381469727
+    },
+    {
+      "name": "Contact",
+      "text": "Contact",
+      "font": "IBM Plex Sans Regular",
+      "size": 13.600000381469727
+    },
+    {
+      "name": "Demonstration outputs are illustrative modeled est",
+      "text": "Demonstration outputs are illustrative modeled estimates, not engineering or agronomic advice.",
+      "font": "IBM Plex Sans Regular",
+      "size": 11.199999809265137
+    },
+    {
+      "name": "© 2026 Solara Fields",
+      "text": "© 2026 Solara Fields",
+      "font": "IBM Plex Sans Regular",
+      "size": 11.199999809265137
+    }
+  ],
+  "about": [
+    {
+      "name": "Solara Fields",
+      "text": "Solara Fields",
+      "font": "Fraunces Bold",
+      "size": 22.079999923706055
+    },
+    {
+      "name": "Product",
+      "text": "Product",
+      "font": "IBM Plex Sans Medium",
+      "size": 13.119999885559082
+    },
+    {
+      "name": "Case study",
+      "text": "Case study",
+      "font": "IBM Plex Sans Medium",
+      "size": 13.119999885559082
+    },
+    {
+      "name": "About",
+      "text": "About",
+      "font": "IBM Plex Sans Medium",
+      "size": 13.119999885559082
+    },
+    {
+      "name": "Book a walkthrough",
+      "text": "Book a walkthrough",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 12.479999542236328
+    },
+    {
+      "name": "↗",
+      "text": "↗",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 12.479999542236328
+    },
+    {
+      "name": "About Solara Fields",
+      "text": "About Solara Fields",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 12
+    },
+    {
+      "name": "Good land should not wait on a better slide deck.",
+      "text": "Good land should not wait on a better slide deck.",
+      "font": "Fraunces Bold",
+      "size": 81.64800262451172
+    },
+    {
+      "name": "Solar resource",
+      "text": "Solar resource",
+      "font": "IBM Plex Sans Regular",
+      "size": 9.600000381469727
+    },
+    {
+      "name": "6.1 hrs/day",
+      "text": "6.1 hrs/day",
+      "font": "IBM Plex Sans Bold",
+      "size": 13.600000381469727
+    },
+    {
+      "name": "Crop baseline",
+      "text": "Crop baseline",
+      "font": "IBM Plex Sans Regular",
+      "size": 9.600000381469727
+    },
+    {
+      "name": "100%",
+      "text": "100%",
+      "font": "IBM Plex Sans Bold",
+      "size": 13.600000381469727
+    },
+    {
+      "name": "Mission",
+      "text": "Mission",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 12
+    },
+    {
+      "name": "We turn agrivoltaic economics into a tool project ",
+      "text": "We turn agrivoltaic economics into a tool project teams can put directly in front of the person who signs off—live, adjustable, undeniable.",
+      "font": "Fraunces Bold",
+      "size": 51.32160186767578
+    },
+    {
+      "name": "A future where every viable acre farms both food a",
+      "text": "A future where every viable acre farms both food and electricity, because the case for it was never seriously in question.",
+      "font": "Fraunces SemiBold",
+      "size": 21.600000381469727
+    },
+    {
+      "name": "Vision",
+      "text": "Vision",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 10.399999618530273
+    },
+    {
+      "name": "Values in behavior",
+      "text": "Values in behavior",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 12
+    },
+    {
+      "name": "What we build into the screen.",
+      "text": "What we build into the screen.",
+      "font": "Fraunces Bold",
+      "size": 52.487998962402344
+    },
+    {
+      "name": "Values only matter when they change the product. T",
+      "text": "Values only matter when they change the product. These three do.",
+      "font": "IBM Plex Sans Regular",
+      "size": 18
+    },
+    {
+      "name": "01",
+      "text": "01",
+      "font": "IBM Plex Sans Regular",
+      "size": 11.199999809265137
+    },
+    {
+      "name": "Proof over persuasion",
+      "text": "Proof over persuasion",
+      "font": "Fraunces Bold",
+      "size": 27.993600845336914
+    },
+    {
+      "name": "Every number ties to a visible input. No claim flo",
+      "text": "Every number ties to a visible input. No claim floats free of its mechanism.",
+      "font": "IBM Plex Sans Regular",
+      "size": 12.800000190734863
+    },
+    {
+      "name": "02",
+      "text": "02",
+      "font": "IBM Plex Sans Regular",
+      "size": 11.199999809265137
+    },
+    {
+      "name": "Built for the room",
+      "text": "Built for the room",
+      "font": "Fraunces Bold",
+      "size": 27.993600845336914
+    },
+    {
+      "name": "Large controls. Immediate feedback. No form betwee",
+      "text": "Large controls. Immediate feedback. No form between a question and an answer.",
+      "font": "IBM Plex Sans Regular",
+      "size": 12.800000190734863
+    },
+    {
+      "name": "03",
+      "text": "03",
+      "font": "IBM Plex Sans Regular",
+      "size": 11.199999809265137
+    },
+    {
+      "name": "Dual by design",
+      "text": "Dual by design",
+      "font": "Fraunces Bold",
+      "size": 27.993600845336914
+    },
+    {
+      "name": "Crop and energy performance stay together. Neither",
+      "text": "Crop and energy performance stay together. Neither becomes the footnote.",
+      "font": "IBM Plex Sans Regular",
+      "size": 12.800000190734863
+    },
+    {
+      "name": "“",
+      "text": "“",
+      "font": "Fraunces Regular",
+      "size": 224
+    },
+    {
+      "name": "Why this exists",
+      "text": "Why this exists",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 12
+    },
+    {
+      "name": "The pitch kept stalling in the same place.",
+      "text": "The pitch kept stalling in the same place.",
+      "font": "Fraunces Bold",
+      "size": 52.487998962402344
+    },
+    {
+      "name": "The numbers lived in somebody else’s case study, o",
+      "text": "The numbers lived in somebody else’s case study, on somebody else’s land, in somebody else’s climate. The person across the table asked for something specific. The meeting ended with a promised spreadsheet.",
+      "font": "IBM Plex Sans Regular",
+      "size": 18
+    },
+    {
+      "name": "Solara Fields replaces that follow-up with a worki",
+      "text": "Solara Fields replaces that follow-up with a working instrument. Set the plot. Move the panels. Let the numbers answer while everyone is still in the room.",
+      "font": "IBM Plex Sans Regular",
+      "size": 18
+    },
+    {
+      "name": "The invitation",
+      "text": "The invitation",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 12
+    },
+    {
+      "name": "Model the acre. Win the room.",
+      "text": "Model the acre.\nWin the room.",
+      "font": "Fraunces Bold",
+      "size": 52.487998962402344
+    },
+    {
+      "name": "Bring a plot, a crop, and the question your curren",
+      "text": "Bring a plot, a crop, and the question your current deck cannot answer.",
+      "font": "IBM Plex Sans Regular",
+      "size": 18
+    },
+    {
+      "name": "Book a live walkthrough",
+      "text": "Book a live walkthrough",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 14.399999618530273
+    },
+    {
+      "name": "↗",
+      "text": "↗",
+      "font": "IBM Plex Sans SemiBold",
+      "size": 14.399999618530273
+    },
+    {
+      "name": "Two yields. One proof.",
+      "text": "Two yields. One proof.",
+      "font": "Fraunces Regular",
+      "size": 21.600000381469727
+    },
+    {
+      "name": "Solara Fields",
+      "text": "Solara Fields",
+      "font": "Fraunces Bold",
+      "size": 22.079999923706055
+    },
+    {
+      "name": "Product",
+      "text": "Product",
+      "font": "IBM Plex Sans Regular",
+      "size": 13.600000381469727
+    },
+    {
+      "name": "Case study",
+      "text": "Case study",
+      "font": "IBM Plex Sans Regular",
+      "size": 13.600000381469727
+    },
+    {
+      "name": "About",
+      "text": "About",
+      "font": "IBM Plex Sans Regular",
+      "size": 13.600000381469727
+    },
+    {
+      "name": "Contact",
+      "text": "Contact",
+      "font": "IBM Plex Sans Regular",
+      "size": 13.600000381469727
+    },
+    {
+      "name": "Demonstration outputs are illustrative modeled est",
+      "text": "Demonstration outputs are illustrative modeled estimates, not engineering or agronomic advice.",
+      "font": "IBM Plex Sans Regular",
+      "size": 11.199999809265137
+    },
+    {
+      "name": "© 2026 Solara Fields",
+      "text": "© 2026 Solara Fields",
+      "font": "IBM Plex Sans Regular",
+      "size": 11.199999809265137
+    }
+  ]
+}
